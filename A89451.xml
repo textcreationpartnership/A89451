@@ -1,0 +1,1908 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stoa Triumphans or, two sober paradoxes, viz. 1. The praise of banishment. 2. The dispraise of honors. Argued in two letters by the noble and learned Marquesse, Virgilio Malvezzi. Now translated out of the Italian, with some annotations annexed.</title>
+            <author>Malvezzi, Virgilio, marchese, 1595-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 60 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89451</idno>
+            <idno type="STC">Wing M362</idno>
+            <idno type="STC">Thomason E1415_1</idno>
+            <idno type="STC">ESTC R209443</idno>
+            <idno type="EEBO-CITATION">99868325</idno>
+            <idno type="PROQUEST">99868325</idno>
+            <idno type="VID">169932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89451)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169932)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 182:E1415[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Stoa Triumphans or, two sober paradoxes, viz. 1. The praise of banishment. 2. The dispraise of honors. Argued in two letters by the noble and learned Marquesse, Virgilio Malvezzi. Now translated out of the Italian, with some annotations annexed.</title>
+                  <author>Malvezzi, Virgilio, marchese, 1595-1653.</author>
+               </titleStmt>
+               <extent>[14], 104 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Septemb. 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Exiles --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169932:1" rendition="simple:additions"/>
+            <p>
+               <hi>Stoa Triumphans:</hi> OR, Two ſober Paradoxes, VIZ. 
+<list>
+                  <item>1. <hi>The Praiſe of Baniſhment.</hi>
+                  </item>
+                  <item>2. <hi>The Diſpraiſe of Honors.</hi>
+                  </item>
+               </list> Argued in two Letters by the noble and learned
+Marqueſſe, <hi>Virgilio Malvezzi.</hi> Now Tranſlated out of the
+<hi>Italian,</hi> with ſome An<g ref="char:EOLhyphen"/>notations annexed.</p>
+            <q>
+               <hi>Felix exilium quod talem meruit Praeconem.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. G.</hi> 1651.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:169932:2"/>
+            <pb facs="tcp:169932:2"/>
+            <head>To his truly honoured friend, <hi>David Gwin,</hi>
+               <abbr>Eſq</abbr>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>His enſuing <hi>Tran<g ref="char:EOLhyphen"/>ſlation</hi> with the whole
+<hi>dreſſe</hi> and <hi>Equipage</hi> of it was the production of ſome
+ſpare time, when I was de<g ref="char:EOLhyphen"/>barrd from <hi>better</hi> imploy<g ref="char:EOLhyphen"/>ment, to witt,
+the exerciſe of my function and <hi>mini<g ref="char:EOLhyphen"/>ſtry.</hi> I found contentment in
+the Reading, and there<g ref="char:EOLhyphen"/>fore have committed it to the preſſe for the
+publique uſe in a more intelligible language.</p>
+            <p>I ſend it forth upon the <hi>Reputation</hi> of the
+<hi>Author,</hi> 
+               <pb facs="tcp:169932:3"/>which is very eminent in the
+<hi>Common-wealth</hi> of <hi>Learning:</hi> which will com<g ref="char:EOLhyphen"/>mend it to the
+world and your reading, without any other <hi>Buſh</hi> at the doore, 
+<q> 
+                  <l>—Nec <hi>Phoebo</hi> gratior ulla eſt</l> 
+                  <l>Quàm quae Virgilii prae<g ref="char:EOLhyphen"/>ſcripſit pagina
+nomen.</l>
+               </q>
+            </p>
+            <p>
+               <hi>His pen</hi> upon paper is like a Prince his <hi>ſtampe</hi>
+upon coine, w<hi rend="sup">ch</hi> makes any thing current and <hi>ſterling,</hi> what ever
+the <hi>metal</hi> be, and how ſmall ſoever the <hi>mo<g ref="char:EOLhyphen"/>del.</hi> Hereupon I
+am indu<g ref="char:EOLhyphen"/>ced to believe that theſe Letters (which I may call the Marqueſſe
+his <hi>Parva Moralia</hi>) will find as good acceptance with the
+<hi>Judici<g ref="char:EOLhyphen"/>ous,</hi> as his <hi>Parva Politica</hi> 
+               <pb facs="tcp:169932:3"/>did, I meane
+his <hi>Romulus</hi> and <hi>Tarquin,</hi> and other <hi>ſmall,</hi> but
+<hi>well-wrought peeces.</hi>
+            </p>
+            <p>I have prefixt your <hi>name (Sir)</hi> before this
+<hi>Tract,</hi> that thoſe that ſhall chance to ſee and reade it, may
+al<g ref="char:EOLhyphen"/>ſo read my <hi>Gratitude,</hi> and the <hi>Title</hi> which you have in
+<hi>me,</hi> and whatſoever I can call mine; which you have
+<hi>purchaſed</hi> by mani<g ref="char:EOLhyphen"/>fold kindneſſes and <hi>ſeaſon<g ref="char:EOLhyphen"/>able</hi>
+favours, whereof I ſhal retaine a gratefull memo<g ref="char:EOLhyphen"/>ry while I am maſter of
+one.</p>
+            <p>Since the death of your <hi>honoured</hi> Brother <hi>(whoſe
+name is like oyntment powred forth)</hi> we find that of the <hi>Poet</hi>
+verified in you, <pb facs="tcp:169932:4"/> 
+               <q> 
+                  <l>—Uno avulſo, non defi<g ref="char:EOLhyphen"/>cit alter</l> 
+                  <l>Aureus, &amp; ſimili fron<g ref="char:EOLhyphen"/>deſcit virga
+metallo.</l>
+               </q>
+            </p>
+            <p>One golden bough being lopt off, another (of the <hi>ſame
+metal</hi>) ſucceeds in the roome of it. For his <hi>Benignity, Candor,</hi>
+and other <hi>Noble</hi> and <hi>vertuous Habits</hi> ſurvive in you; ſo
+that the loſſe of him is (in a good meaſure) recom<g ref="char:EOLhyphen"/>penced in your
+Succeſsion.</p>
+            <p>God bleſſe you with health, and the fruition of many and happy
+dayes: which are the hearty wiſhes of</p>
+            <closer>
+               <signed>Your very affe<g ref="char:EOLhyphen"/>ctionat friend, <hi>T.
+P.</hi>
+               </signed> 
+               <dateline>
+                  <date>June 3.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="translator_to_the_reader">
+            <pb facs="tcp:169932:4"/>
+            <head>An Advertiſement of the Tranſlator <hi>to the
+Reader.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe <hi>two Letters</hi> (gentle Reader) like thoſe <hi>two
+mites</hi> of the Widdow, may ſerve to increaſe thy <hi>Treaſure,</hi> if
+thou haſt any; or to be thy <hi>Treaſure,</hi> if thou haſt none. The one
+is a <hi>Philoſophicall</hi> Lecture of Patience and aequanimity, to an
+Exiled friend: The other is a <hi>D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fiance</hi> to all worldly Honours and Dignities. Both were writ<g ref="char:EOLhyphen"/>ten
+by th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lamp of <hi>Epictetus,</hi>
+and doe breath that <hi>virilem Sa<g ref="char:EOLhyphen"/>pi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntiam 
+<note n="a" place="margin">Conſo<g ref="char:EOLhyphen"/>lat: ad Hel<g ref="char:EOLhyphen"/>viam c. 12.</note>
+Stoico<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um,</hi> which
+<hi>Seneca</hi> doth ſo much extoll, that maſculine and Heroick bravery of
+the <hi>Stoicks,</hi> whereby they did <pb facs="tcp:169932:5"/>put off man, and tread above
+the ſtage of humane chances.</p>
+            <p>In both, the Authors penne drops <hi>Balme</hi> as well as Inke,
+ſoveraigne oyle to aſſwage in<g ref="char:EOLhyphen"/>ward griefs, and <hi>inviſible</hi>
+wounds: <hi>As the tongue, ſo the pen of a wiſe man is health, ſaith that
+Proverb of wiſdom</hi> Solomon, Prov. 12.18. And therefore theſe lines may
+be of good uſe for the <hi>Sonnes</hi> of <hi>Be<g ref="char:EOLhyphen"/>noni's</hi> ſorrow in this
+King<g ref="char:EOLhyphen"/>dome. For though the ſacred Scriptures are the beſt <hi>Ne<g ref="char:EOLhyphen"/>penthe</hi>
+and Lenitifs of ſorrow <hi>(whoſe Leaves are for the 
+<note n="b" place="margin">Revel. 22.2.</note> healing of the
+Nations;)</hi> Yet think it not amiſſe to uſe <hi>Exo<g ref="char:EOLhyphen"/>terick</hi> writers
+withall, whoſe <hi>Receipts</hi> have oftentimes prov<g ref="char:EOLhyphen"/>ed <hi>cordiall</hi>
+and effectuall to for<g ref="char:EOLhyphen"/>tifie the weake hearts and feeble hands of ſome that
+would wiſely apply them.</p>
+            <p>
+               <pb facs="tcp:169932:5"/>The Author is <hi>Malvezzi,</hi> a man above his
+Titles Noble; whoſe <hi>Works</hi> have carried his name and fame as far as
+Lear<g ref="char:EOLhyphen"/>ning hath spread her wings.</p>
+            <q> 
+               <l>
+                  <hi>Malvezzi,</hi> he whom 'tis as hard to praiſe</l> 
+               <l>To merit, as it is to imi<g ref="char:EOLhyphen"/>tate his wayes<note n="c" place="margin">Sir <hi>Jo: Sucklin</hi> of the Tran<g ref="char:EOLhyphen"/>ſlat. of <hi>Ro<g ref="char:EOLhyphen"/>mulus</hi>
+and <hi>Tarquin.</hi>
+                  </note>
+               </l>
+            </q>
+            <p>They that ſtudied him in his own Language have thought him
+worthy the acquaintance of more Nations than his owne, ſo that moſt of his
+learned Labours have been tranſlated, ſome into <hi>Latin,</hi> and ſome
+into <hi>Engliſh;</hi> and that by <hi>Noble hands.</hi>
+               <note n="d" place="margin">The Earle of <hi>Monmouth</hi> and <hi>John Kruuſse</hi> a noble
+Suede.</note>
+            </p>
+            <p>And becauſe any Eſſayes and <hi>delineations</hi> of his
+penne are worth <hi>Volumes</hi> of ſome other writers; as <hi>Giotto's
+Circle</hi> (which he drew perfunctorily and in a trice) did ſurpaſſe the
+labour'd peeces of ſome other <hi>Artiſts;</hi> I have attir'd theſe 
+<pb facs="tcp:169932:6"/>ſmaller peeces and diverſions of his ſtudies, in Engliſh
+livery, that they may ſerve as <hi>Pages</hi> to wait upon his other workes
+in this kingdome.</p>
+            <p>His ſtyle is right <hi>Laconick,</hi> ſtrict and ſuccinct;
+ſo farre, that his brevity doth ſometimes cloud his ſenſe, and makes
+each period a <hi>Riddle</hi> to ſome capaci<g ref="char:EOLhyphen"/>ties; ſo that I am bold (now
+and then) to enlarge the roome for to let in more light; for his own words doe
+ſcarce bring us home to his meaning: And I may ſay of him as <hi>A.
+Gellius</hi> ſaid of <hi>Saluſt;</hi> that he was
+<hi>Exquiſi<g ref="char:EOLhyphen"/>tiſſimus brevitatis Artifex.</hi>
+            </p>
+            <p>But he is as rich in matter as he is frugall and parcimoni<g ref="char:EOLhyphen"/>ous in
+words, as though his full<g ref="char:EOLhyphen"/>ſtor'd ſoule deſired to ſtive as much good
+matter (as he could) in a little roome. The <hi>Raggs</hi> which are added in
+the mar<g ref="char:EOLhyphen"/>gent <pb facs="tcp:169932:6"/>may be uſefull for ſome Readers; And the
+Annotations annexed may ſerve to ſhew that ſome <hi>Paradoxes,</hi> and
+<hi>ſingular</hi> ſtreines that are found in the Text, are ſuitable to
+the doctrine of the autient <hi>Sages,</hi> especially thoſe that have
+Commenced in <hi>Porticu Zenonis.</hi>
+            </p>
+            <p>The greater letters referre you to ſome Annotations at the later
+end; and the leſſer to the marginall Notes.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="letter">
+            <div type="argument">
+               <pb facs="tcp:169932:7"/>
+               <head>The occaſion and Argument of the firſt Letter.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>N the Co<g ref="char:cmbAbbrStroke">̄</g>monwealth of (A) <hi>Genoa,</hi> as in that of
+<hi>Athens</hi> of old, the device of (B) Oſtraciſme is put in practiſe.
+Hence it came to paſſe, that the Illuſtrious <hi>Signor John Vincent
+Imperiale</hi> was ad<g ref="char:EOLhyphen"/>judged to baniſhment: A Ca<g ref="char:EOLhyphen"/>valier of much renowne and
+fame in the world, no leſſe for eminencie of learning, and the glory of a
+great Commander, than for noble Extraction, and <pb facs="tcp:169932:7"/>gentle deportement
+and behavi<g ref="char:EOLhyphen"/>our.</p>
+               <p>The pretence was, That by an order from him a certaine
+<hi>Muſician</hi> was put to death, who is yet alive. The innocent and noble
+<hi>Gentleman</hi> refuſed not the occaſion to aprove him<g ref="char:EOLhyphen"/>ſelfe an
+obſequious Common<g ref="char:EOLhyphen"/>wealths man: For he (to give content to his deare countrey,
+as well by his abſence, as he had faithfully ſerv'd her by his pre<g ref="char:EOLhyphen"/>ſence)
+did withdraw himſelfe (though old and infirme) into the City of
+<hi>Bononia;</hi> Where as he is greatly honoured by all, ſo is he dearely
+beloved of the No<g ref="char:EOLhyphen"/>ble Marqueſſe <hi>Virgilio Mal<g ref="char:EOLhyphen"/>vezzi;</hi> Who out of his
+love and friendſhip, being mov'd to a compaſſion of ſo ſtrange an
+Acci<g ref="char:EOLhyphen"/>dent, frames this Letter to his undaunted Friend, with an in<g ref="char:EOLhyphen"/>tention
+rather to expreſſe (with <pb facs="tcp:169932:8"/>his penne) the Reſentments of a
+ſoule that honoured him, than to adminiſter Conſolation to a mind which
+alwayes appeares greater 
+<note n="a" place="margin">
+                     <hi>C. Ma<g ref="char:EOLhyphen"/>rius mihi in ſecundis re<g ref="char:EOLhyphen"/>bus
+unus ex fortunatis hominibus; in adverſis, unus ex ſummis viris
+videbatur.</hi> Cic. Parad. 2.</note> in Adverſity than in Proſpe<g ref="char:EOLhyphen"/>rity.</p>
+            </div>
+            <div type="letter">
+               <pb n="1" facs="tcp:169932:8"/>
+               <head>To the Noble Signor, <hi>JOHN VINCENT</hi> IMPERIALE.</head>
+               <opener>
+                  <signed>VIRGILIO MALVEZZI His moſt devoted Servant, and
+affectionate Friend.</signed>
+               </opener>
+               <p>
+                  <seg rend="decorInit">W</seg>Hen I had the happineſs <hi>(No<g ref="char:EOLhyphen"/>ble Sir)</hi> to ſee you
+at <hi>Bono<g ref="char:EOLhyphen"/>nia,</hi> and to enter my ſelfe in the number of your Servants, I
+conceived you Triumphant, though you told me you were an Exile: I knew you
+Innocent, though you cryed Guilty. I had ſcarce departed out of
+<hi>Bononia,</hi> but our Reverend Arch-Deacon <hi>Paleotti</hi> (I know not
+whether <pb n="2" facs="tcp:169932:9"/>to comfort me, or undeceive me) did ſend me a
+Letter fraught with cleare and irre<g ref="char:EOLhyphen"/>fragable Demonſtrations of your
+Innocence.</p>
+               <p>If I had not cauſe ſo much to grieve for your
+Nobleneſſe, I ſhould grieve for Him: Let him ſend his Remon<g ref="char:EOLhyphen"/>ſtrances
+and Apologies to thoſe that never ſaw you; your very looks and the
+linea<g ref="char:EOLhyphen"/>ments of your Countenance are more convincing argu<g ref="char:EOLhyphen"/>ments to mee (than any
+o<g ref="char:EOLhyphen"/>ther) of your good abeare and innocence.</p>
+               <p>He that hath eyes which can penetrate beyond the Surface and
+outſide, may (by diſcourſing with a man) finde that ſpeech of the
+Wiſeman true; A man is knowne by the eye, and the face diſcovers
+wiſedome:<note place="margin">Ecclus 19.29.</note> not that we can 
+<pb n="3" facs="tcp:169932:9"/>reade in that 
+<note n="b" place="margin">
+                     <hi>Vultus animi janua &amp;
+tabula.</hi> Cic. de pet. Conſul.</note> Tablet what a man ſhall be, but
+what he is: He ſpeakes not (ſure) of the ſuperſtitious art of
+<hi>Metopos<g ref="char:EOLhyphen"/>copie,</hi> he intends (perhaps) Na<g ref="char:EOLhyphen"/>turall philoſphie. Man is an
+harmonious organ; the heart tunes and playes it, the tongue ſings, &amp;
+every part &amp; particle in it (though never ſo little) yeelds a diſtinct
+ſound, and varies the effect according to the varietie of affections:
+be<g ref="char:EOLhyphen"/>cauſe all the parts are ſuſtain<g ref="char:EOLhyphen"/>ed by the ſpirits, and all the
+ſpirits are the Iſſue of the heart: 
+<note place="margin">
+                     <hi>Omnis mo<g ref="char:EOLhyphen"/>tus animi ſuum quen<g ref="char:EOLhyphen"/>dam
+à na<g ref="char:EOLhyphen"/>tura habet vultum, &amp; ſonum &amp; geſtum: to<g ref="char:EOLhyphen"/>tum<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+cor<g ref="char:EOLhyphen"/>pus hominis &amp; ejus om<g ref="char:EOLhyphen"/>nis vultus o<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>eſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> vo<g ref="char:EOLhyphen"/>ces, ut nervi in fidibus, ita ſonant, ut à
+motu animi ſunt pulſae.</hi> Cic de Orat. lib. 3</note> As this is affected
+with Joy, or Sorrow, love, hatred, or feare; ſo it doth ſtrike a different
+note or ſound: when the Heart touch<g ref="char:EOLhyphen"/>eth one ſtring, and the Tongue ſings
+to another, the Speech and the Countenance doe not make conſort; and he that 
+<pb n="4" facs="tcp:169932:10"/>cannot perceive this ſoloeciſm, and obſerve this
+diſſonan<g ref="char:EOLhyphen"/>tie, muſt accuſe his ſenſes of much weakeneſſe, and
+fly to that unſavoury (though much ſeaſoned) maxime, written for blind
+men only: <hi>That it is neceſſary to eate a buſhell of ſalt with a
+man, before you can well underſtand him.</hi> Your Lordſhip muſt
+ſubſcribe to my opinion herein: for having ſeene ma<g ref="char:EOLhyphen"/>ny Provinces of the
+world; been made knowne to Kings and Princes; and having con<g ref="char:EOLhyphen"/>verſed with ſo
+many Cavaliers of Honour; it will be no ſmall comfort unto you to have left
+ſo little need of ju<g ref="char:EOLhyphen"/>ſtifying you by other mens writings, that your very 
+<note n="c" place="margin">
+                     <hi>Domi<g ref="char:EOLhyphen"/>natur max<g ref="char:EOLhyphen"/>ime vultus, hoc
+amamus, hoc odimus, hoc plurima intelligimus</hi> Quintil. Inſtit.
+Ora<g ref="char:EOLhyphen"/>tor.</note> vi<g ref="char:EOLhyphen"/>ſage hath already excuſed and acquited you among all
+that have ſeene you.</p>
+               <p>I have taken (indeed) my <pb n="5" facs="tcp:169932:10"/>pen in hand with an
+intent to ſolace you with a few lines, which diſcover rather my af<g ref="char:EOLhyphen"/>fection
+than your neceſſity: to write Letters conſolatory unto you were to goe to
+cure a man in perfect health; though it is true that health<g ref="char:EOLhyphen"/>full men
+(ſometimes) have neede of Phyſick, though not to reſtore, yet to
+preſerve health. Yet I doe not write to ſolace you but my ſelfe: your
+minde hath no need of cordialls, but my heart hath. I that had a breaſt of
+proofe, and could beare my owne di<g ref="char:EOLhyphen"/>ſaſters without perturbation, doe find
+my heart moſt re<g ref="char:EOLhyphen"/>lenting and tender toward yours. <hi>(C)</hi> A Stoicall
+indo<g ref="char:EOLhyphen"/>lencie doth not well con<g ref="char:EOLhyphen"/>ſiſt with frienſhip: A friend that
+undertakes to comfort, is not like a Phyſician that un<g ref="char:EOLhyphen"/>dertakes 
+<pb n="6" facs="tcp:169932:11"/>a cure: A Phyſician cannot heale others except he be in
+health himſelfe; but a friend is ſo much the fitter to adminiſter
+Phyſick (if I may ſo ſpeak) by how much the more affected and
+diſeaſed he is himſelfe: I am ſenſible of your Lordſhips innocencie
+and baniſhment, I cannot en<g ref="char:EOLhyphen"/>tertaine any joy, except I ſhew my ſelfe
+impious; and yet I cannot be ſorry, except I ſhould wiſh you culpable:
+yet I am not grieved for that you are innocent; but I am ſorry for that you
+are baniſhed: and now ſince you are bani<g ref="char:EOLhyphen"/>ſhed, I am glad you are
+inno<g ref="char:EOLhyphen"/>cent. There be ſome of ſuch weake mindes that beare their troubles
+with the more impatience, when they know themſelves to be innocent of the
+crime that is laid to their <pb n="7" facs="tcp:169932:11"/>charge; whereas (indeed) they
+might beare them the better, becauſe they know themſelves ſuch. Vertue is
+not reſtrain'd or confin'd, it hath a place or theater to ſhew it ſelfe
+in all fortunes: A man that is condemned, (if he be innocent, and doth not
+vexe) he doth exerciſe the vertue of Patience: if he be guilty and doth
+acknow<g ref="char:EOLhyphen"/>ledge himſelfe ſo, he doth co-operate with that of Ju<g ref="char:EOLhyphen"/>ſtice. When
+a ſubject com<g ref="char:EOLhyphen"/>plaines of ſome unreaſonable preſſures and
+moleſtations, he is unjuſt, becauſe he would be ſo: but when he
+complains of juſt and deſerved puniſhment, he is not only unjuſt,
+becauſe he is ſo, but becauſe he grieves; And becauſe he grieves that
+others are not ſo too. To complaine of ſuffe<g ref="char:EOLhyphen"/>rings <pb n="8" facs="tcp:169932:12"/>is
+either to complaine of an occaſion given to merit thereby; or (at leaſt) to
+com<g ref="char:EOLhyphen"/>plaine of a puniſhment in<g ref="char:EOLhyphen"/>flicted for having demerited. To grieve for the
+one, is weakneſſe, &amp; not to grieve for the other is perverſneſſe:
+ſuch a one hath cauſe to complain, not of Fortune but of him<g ref="char:EOLhyphen"/>ſelfe; not
+for what he ſuffers, but for what he hath com<g ref="char:EOLhyphen"/>mitted. <hi>(D)</hi> There is
+no evill in the world, but what is committed: that which is in<g ref="char:EOLhyphen"/>flicted, rather
+ſeems evill than is ſo, becauſe it comes to paſſe by the 
+<note n="d" place="margin">
+                     <hi>Quic<g ref="char:EOLhyphen"/>quid pati<g ref="char:EOLhyphen"/>mur morta<g ref="char:EOLhyphen"/>le genus,
+quicquid facimus, ve<g ref="char:EOLhyphen"/>nit ex alto.</hi> Senec. Herc. Oe<g ref="char:EOLhyphen"/>teo.</note> will of God,
+which is alwayes good, and eithe permits it, or is the Author of it.</p>
+               <p>Whereas men ſhould ſtoop and ſtrike ſaile to
+<hi>Fortune,</hi> they revile and blaſpheme it: if there were not ſome
+cauſe <pb n="9" facs="tcp:169932:12"/>to beare with their ignorance, there would be juſt
+cauſe to chaſtiſe their raſhneſſe: for we call that <hi>(E)
+Fortune,</hi> which happens, or falls out we know not how, nor why; or elſe
+quite without, and be<g ref="char:EOLhyphen"/>yond our expectation: where<g ref="char:EOLhyphen"/>fore to complaine of Fortune,
+and not to blame our own ignorance, is to complaine of the D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vine providence. Such things as happen
+unto us, and not by us, we ſhould rather adore, than cenſure; be<g ref="char:EOLhyphen"/>cauſe
+there Gods wiſdome hath a greater ſtroke &amp; ſhare, where ours hath the
+leſſer. A man ſhould take care to de<g ref="char:EOLhyphen"/>ſerve that which is good, though
+not to obtaine what he deſerves; And yet he hath (in effect) obtained it,
+when he hath deſerved it: For the greateſt good that we can 
+<pb n="10" facs="tcp:169932:13"/>have, is 
+<note n="e" place="margin">
+                     <hi>Eſt quidem ve<g ref="char:EOLhyphen"/>ra felicitas
+felicitate dignum vi<g ref="char:EOLhyphen"/>deri.</hi> Plin. Paneg. ad Trajan.</note> to deſerve
+that greateſt good that we can en<g ref="char:EOLhyphen"/>joy. He that ſtudies to me<g ref="char:EOLhyphen"/>rit that he
+may enjoy ſome good, makes merit become intereſt, and cannot arrive at good
+which is purely ſo; be<g ref="char:EOLhyphen"/>cauſe he hath adulterated and tainted the good, when
+he hath tainted the merit. For<g ref="char:EOLhyphen"/>tune hath no ſhare in meri<g ref="char:EOLhyphen"/>ting, it hath in
+obtaining: and he that hath obtained, is not now ſecure (altogether)
+becauſe he is not altoge<g ref="char:EOLhyphen"/>ther in the condition of me<g ref="char:EOLhyphen"/>rit.</p>
+               <p>It is a high way ſaying, That we are 
+<note n="f" place="margin">
+                     <hi>Faber eſt unuſ<g ref="char:EOLhyphen"/>quiſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+for<g ref="char:EOLhyphen"/>tunae ſuae</hi> Cic. in Catone Maj. <hi>Aedeplol Sapiens fin<g ref="char:EOLhyphen"/>git fortuna<g ref="char:cmbAbbrStroke">̄</g>
+ſibi.</hi> Terent.</note> Architects of our own Fortune: He that ſayd ſo,
+ſaid not well, becauſe he meant not well: he that builds Fortune, doth
+demoliſh it; it cannot be wrought or fram'd but with the tools of 
+<pb n="11" facs="tcp:169932:13"/>Vertue; and ſo it becomes a ſtatue of Vertue, which was
+carvd for the ſtatue of For<g ref="char:EOLhyphen"/>tune: yet is it true that though wee be not
+Authors of its entitie, yet wee are of its quality; it is never that which we
+make, yet it is alwayes ſuch as we make it; It doth not conſiſt with
+merit, if it be not a ſorry one: merit-doth deſtroy it where it finds it;
+but where ſhe doth find me<g ref="char:EOLhyphen"/>rit, ſhe doth increaſe it: if ſhe be good,
+with moderati<g ref="char:EOLhyphen"/>on; if bad and wretched, with patience; ſhe would ſtand and
+ſtay with your Noble Lordſhip, and therefore returnes to you in your
+diſaſters, that ſhe may improve that merit which in your felicity ſhe
+did im<g ref="char:EOLhyphen"/>paire.</p>
+               <p>An adverſe fortune is ra<g ref="char:EOLhyphen"/>ther to be wiſhed (in my o<g ref="char:EOLhyphen"/>pinion) 
+<pb n="12" facs="tcp:169932:14"/>though we deſerve a proſperous one: In this vaſt
+Ocean men are oftener ſhip<g ref="char:EOLhyphen"/>wrakt in the haven of tran<g ref="char:EOLhyphen"/>quillity, than amidſt
+the ſurges and billowes of diſaſters: mi<g ref="char:EOLhyphen"/>ſeries doe humble us, and
+therefore we hold under them, but proſperity ſwells us with pride, and
+therefore they 
+<note n="g" place="margin">
+                     <hi>Miſe<g ref="char:EOLhyphen"/>riae toleran<g ref="char:EOLhyphen"/>tur,
+faelici<g ref="char:EOLhyphen"/>tate corru<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>pimur.</hi> Ver<g ref="char:EOLhyphen"/>ba Galbae apud Tacit l. 1. Hiſtor.</note>
+ſpoile us. If every man hath his Fortune, and e<g ref="char:EOLhyphen"/>very Fortune its wheel, how
+can we complaine that our wheel deſcends? ſince one part of the wheel doth
+not deſcend ſo much one way, but it aſ<g ref="char:EOLhyphen"/>cends another way: thoſe men
+only complain of Fortune, who have their ſouls ſo tackt to their bodies,
+that when one falls &amp; praecipitates, the other doth ſo too: but thoſe
+who poſſeſſe one part of the wheel with their ſoules, and another 
+<pb n="13" facs="tcp:169932:14"/>with their bodies, doe wiſh al<g ref="char:EOLhyphen"/>waies the adverſe or
+contrary part of the wheel; and if they have it not, they make it ſo:
+becauſe one part mounts to<g ref="char:EOLhyphen"/>wards heaven, when the other hurries down towards
+hell.</p>
+               <p>A wiſe man beares his head above the 
+<note n="h" place="margin">
+                     <hi>Talis eſt ſapientis animus
+qualis mun<g ref="char:EOLhyphen"/>di ſtatus ſupra lunaa<g ref="char:cmbAbbrStroke">̄</g>, ſemper illic ſerenum eſt.</hi>
+Sen. Ep. 59.</note> clouds: tem<g ref="char:EOLhyphen"/>peſts cannot reach him, he is not ſhaken
+with winds nor battered with thunder: Prin<g ref="char:EOLhyphen"/>ces and States may well be Lords of
+our bodies, but can<g ref="char:EOLhyphen"/>not of our 
+<note n="i" place="margin">
+                     <hi>Servi<g ref="char:EOLhyphen"/>tus non ca<g ref="char:EOLhyphen"/>dit in tot<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:cmbAbbrStroke">̄</g> hominem: pars melior ejus excepta eſt.</hi> Sen. de benefi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> l. 3. c. 20.</note> ſouls; or if they
+be of any ſoules, it is of ſuch ſoules as were (before) made by their
+owners, ſlaves of their bodies. He that is im<g ref="char:EOLhyphen"/>merſt (both ſoule and body)
+in this puntilio or narrow point, ſuch as the Globe of the Earth is, doth
+live alwaies in the center of this point, <pb n="14" facs="tcp:169932:15"/>both ſoule and
+body: when he doth (by his better part) raiſe himſelfe to higher
+ſpe<g ref="char:EOLhyphen"/>culations, he lives happily with the body, wherever his mind enjoyes any
+feli<g ref="char:EOLhyphen"/>city.</p>
+               <p>If all the circumference of the earth be but 
+<note n="k" place="margin">
+                     <hi>Punctu<g ref="char:cmbAbbrStroke">̄</g> eſt in quo navigatis, in
+quo bellatis, in quo reg<g ref="char:EOLhyphen"/>na diſponi<g ref="char:EOLhyphen"/>tis, &amp;c.</hi> Sen. Nat. quaeſt. l.
+1. Praefat.</note> a point of the Univerſe; If all times that were, or
+ſhall be, are com<g ref="char:EOLhyphen"/>priz'd under one inſtant of E<g ref="char:EOLhyphen"/>ternity: what thing is man,
+who is but one point of that circumference? And what is his life. but one
+moment of that eternity? Shall then your Lordſhip complaine that you are
+ſecluded <hi>Genoa,</hi> which (though of a good bigneſſe) is but a
+little little point of a little point? and that you are ſecluded for a
+certaine day? which is but a ſhort in<g ref="char:EOLhyphen"/>ſtant of that time which can<g ref="char:EOLhyphen"/>not 
+<pb n="15" facs="tcp:169932:15"/>be termed (wel) an inſtants?</p>
+               <p>Your Lordſhip is ſent out of your Country, not caſhierd;
+by the Fathers and Senators of it, not by the Judges; and that to reward, not
+to baniſh-you: Malefactors are uſed to be baniſhed 
+<note n="l" place="margin">
+                     <hi>Neſcis exilium ſce<g ref="char:EOLhyphen"/>lerum
+eſſe poena<g ref="char:cmbAbbrStroke">̄</g>?</hi> Cic. Parad.</note>; ſo that baniſh<g ref="char:EOLhyphen"/>ment muſt loſe
+its name where it finds innocence. A man is born with an obli<g ref="char:EOLhyphen"/>gation to ſerve
+his countrey, he is borne a ſlave; and the more ſlave, by how much his
+countrey is the more free: but to manumiſe a ſlave is a reward, not a
+puniſhment; it doth teſtifie how well he hath merited by his ſervice,
+when it makes him a freeman.</p>
+               <p>Time hath beene, That in <hi>Republiques,</hi> baniſhment hath
+been (in a manner) their chiefeſt guerdon: it was of<g ref="char:EOLhyphen"/>ten beſtowed upon
+<hi>(F)</hi> the <pb n="16" facs="tcp:169932:16"/>beſt deſerving: if the Citizens be
+ſlaves, the Republiques could not free any of them from their ſlaverie, but
+they muſt fall (themſelves) unto it: But when they found a ſubject of
+<hi>(G)</hi> great worth, beign a ſha<g ref="char:EOLhyphen"/>mend to ſee him a ſlave, and not
+willing to make him a ſervant, they caſhierd him; being content to ſee
+him a free man, though not to make him a <hi>(H)</hi> Maſter. He that ſaid
+that he would be either an <hi>Exile</hi> our of his Countrey, or a
+<hi>Conſul</hi> in it,<note place="margin">
+                     <hi>Aut Conſul aut Exul,</hi> Some
+read it.</note> did believe (perhaps) that a perſon of worth, could not
+conteine himſelfe in a Republique, if he did not obteine to be a
+<hi>Conſul</hi> in it, or did not baniſh himſelfe out of it. You have
+taken paines <hi>(Noble Sir)</hi> a long time, that others might take their
+reſt: and you could <pb n="17" facs="tcp:169932:16"/>not betake your ſelfe to your
+reſt, without loſing all the glory that you have acquired by motion. He
+that hath per<g ref="char:EOLhyphen"/>form'd brave exploites, and then retreats voluntarily, ſeems to
+have performed them out of heat and fury, not love; to have ſerv'd his owne
+am<g ref="char:EOLhyphen"/>bition, not his countrey. It is not the part of a valiant man to take pains
+that he may take reſt, as it is not the part of a ſtout man to fight that
+he may live: Even plebeian Spi<g ref="char:EOLhyphen"/>rits will raſhly hazard their lifes, that they
+may not loſe it. To beſtow upon thy Coun<g ref="char:EOLhyphen"/>trey the prime of thy youth, and
+to denie it the fruit of thy age, is to ſacrifice the armes and denie the
+braynes: Thoſe that are weake of body are exempted from the wars, and they
+that are weake of <pb n="18" facs="tcp:169932:17"/>underſtanding from the Se<g ref="char:EOLhyphen"/>nate: The
+danger of ſhort<g ref="char:EOLhyphen"/>ning our life by cumbring old age with buſineſſes will
+not ſerve for an excuſe, no more than the danger of blowes will excuſe a
+ſouldier from fighting: He that (being young) did expoſe himſelfe to
+danger by ſerving his Countrey by his armes, why ſhould not he (being old)
+ex<g ref="char:EOLhyphen"/>poſe himſelf to the like danger, by the ſervice &amp; labour of his 
+<note n="m" place="margin">
+                     <hi>Nullis annis vaca<g ref="char:EOLhyphen"/>tionem da<g ref="char:EOLhyphen"/>mus
+cani<g ref="char:EOLhyphen"/>tiem galeâ premimus.</hi> Sen. de vi<g ref="char:EOLhyphen"/>tâ beatâ cap.
+28.</note> braines? wherefore ba<g ref="char:EOLhyphen"/>niſhment <hi>(Noble Sir)</hi> is a great
+reward beſtowed upon you: Quietneſſe, which is e<g ref="char:EOLhyphen"/>ver deſired by all,
+when it is the period of glorious moti<g ref="char:EOLhyphen"/>ons or actions; and is not al<g ref="char:EOLhyphen"/>waies
+laudable, when it is voluntary, cannot be repre<g ref="char:EOLhyphen"/>hended in you, when it is
+be<g ref="char:EOLhyphen"/>come neceſſary. It is a great <pb n="19" facs="tcp:169932:17"/>felicity (no doubt) to
+be now at leaſure to recount with your ſelfe the honourable memorialls of
+former ex<g ref="char:EOLhyphen"/>ploits, the applauſe you have received, and the honours you have
+deſerved: This is like Gods owne joy, to rejoice within ones ſelfe, and of
+him<g ref="char:EOLhyphen"/>ſelfe: High and noble actions that have been performed, are dainties kept
+in ſtore, and companions prepared for to ſolace and 
+<note n="n" place="margin">
+                     <hi>Con<g ref="char:EOLhyphen"/>ſcientia vi<g ref="char:EOLhyphen"/>tae benè
+actae multe<g ref="char:EOLhyphen"/>rum<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> be<g ref="char:EOLhyphen"/>nefactorum recordatio jucundiſſi<g ref="char:EOLhyphen"/>ma eſt.</hi>
+Cic. Caſt. Maj.</note> ſweeten old age, and make retiredneſſe a
+bleſſing.</p>
+               <p>But what doe I talke of ba<g ref="char:EOLhyphen"/>niſhment out of ones Coun<g ref="char:EOLhyphen"/>trey? it
+is true that your Lordſhip is exiled out of <hi>Ge<g ref="char:EOLhyphen"/>noa,</hi> but not form
+your Coun<g ref="char:EOLhyphen"/>trey: I muſt not contract the bounds of that; it hath not ſo
+ſmall a circumference as <hi>Genoa:</hi> Every place pretends 
+<pb n="20" facs="tcp:169932:18"/>to be your Countrey, and e<g ref="char:EOLhyphen"/>very Countrey is ambitious to be
+that place: But it was the Countrey that you were borne in, you may ſay: if
+that place be your Countrey where you were borne, it is but a ſmall plot of
+ground: if it be a City where this plot of ground is, why not rather the 
+<note n="o" place="margin">My City and Countrey as I am
+<hi>Autoninus</hi> is <hi>Rome,</hi> as a man, the whole world. <hi>Anton, de
+vita ſua</hi> l. 6 <hi>Civitatis noſtrae ter<g ref="char:EOLhyphen"/>minos cum ſole
+meti<g ref="char:EOLhyphen"/>mur.</hi> Sen. de vita be<g ref="char:EOLhyphen"/>atâ, c. 31.</note> world which containes
+this City? You will ſay againe that it is your Countrey be<g ref="char:EOLhyphen"/>cauſe your
+Anceſters have there inhabited; if your An<g ref="char:EOLhyphen"/>ceſtors either had not beene
+baniſhed or had not baniſhed themſelvs from their firſt habi<g ref="char:EOLhyphen"/>tation
+where they were born, <hi>Genoa</hi> had not now been your Countrey: wherefore
+baniſh<g ref="char:EOLhyphen"/>ment doth not make you loſe your Countrey but gaine it rather: It is
+your Countrey (you will ſay) be<g ref="char:EOLhyphen"/>cauſe <pb n="21" facs="tcp:169932:18"/>there lies your
+eſtate and your goods; alas! thoſe you meane are not your <hi>(I)</hi>
+goods: you have found them, and you muſt againe leave them: The goods of a
+man are his underſtanding, yea his Countrey is his underſtanding.</p>
+               <p>That man is not baniſhed, who being excluded one City, can
+live in any 
+<note n="p" place="margin">
+                     <hi>Exili<g ref="char:EOLhyphen"/>um illis terribile, quibus
+qua<g ref="char:EOLhyphen"/>ſi circum<g ref="char:EOLhyphen"/>ſcrip<g ref="char:EOLhyphen"/>tus eſt ha<g ref="char:EOLhyphen"/>bitandi Locus; non iis qui om<g ref="char:EOLhyphen"/>nem
+terra<g ref="char:EOLhyphen"/>rum orbem unam urbe<g ref="char:cmbAbbrStroke">̄</g> eſse ducunt.</hi> Cic. parad</note> other cli<g ref="char:EOLhyphen"/>mate
+of the habitable world: But he that cannot live in any other portion of the
+world, but in the circle of ſuch a Citty: to expell the other out of ſuch a
+Citty is not ba<g ref="char:EOLhyphen"/>niſhment but an enfranchiſe<g ref="char:EOLhyphen"/>ment: But how many men doth an
+ambition of great<g ref="char:EOLhyphen"/>neſſe, and a deſire of lucre de<g ref="char:EOLhyphen"/>taine there as
+<hi>Exiles,</hi> who never complaine, and yet live in a harder condition than
+the other? you live under a good <pb n="22" facs="tcp:169932:19"/>common-wealth, to which by
+nature you ought, and by choice you doe render obe<g ref="char:EOLhyphen"/>dience. But thoſe men doe
+live under two Tyrants, Ava<g ref="char:EOLhyphen"/>rice 
+<note n="q" place="margin">
+                     <hi>Libido honoris, im<g ref="char:EOLhyphen"/>perii,
+pro<g ref="char:EOLhyphen"/>vinciarum, quam dura eſt domina, quam impe<g ref="char:EOLhyphen"/>rioſa?</hi> Cic.
+parad.</note> and Ambition, which by nature they ought to com<g ref="char:EOLhyphen"/>mand and not to
+obey. Your Lordſhip is tranſplanted from the Countrey of your Fathers into
+your Mother Countrey: For how can you be any other then the ſonne of this
+Citty, if this Citty be the mother of ſtudies and arts? ſurely you are her
+ſonne, and a pregnant one too, the many births and conceptions of your braine
+doe approve you ſo: ſend forth thoſe that are not yet publiſhed, bring
+them (I pray) not to the light, but to be a light to the learned world, let
+them come abroad both to ſo<g ref="char:EOLhyphen"/>lace 
+<note n="r" place="margin">
+                     <hi>Quid jucundius eſt Senectu<g ref="char:EOLhyphen"/>te
+ſtipatâ ſtudiis ju<g ref="char:EOLhyphen"/>ventutis?</hi> Cic. Cat. Ma.</note> your ſelfe
+and others.</p>
+               <p>
+                  <pb n="23" facs="tcp:169932:19"/>Though wiſe men reſide a<g ref="char:EOLhyphen"/>mong the vulgar
+in this ele<g ref="char:EOLhyphen"/>mentary world, yet they have another within them ful of va<g ref="char:EOLhyphen"/>rious
+images and noble Ideas, ſpringing from the purer ſpi<g ref="char:EOLhyphen"/>rits of the heart, and
+inhabi<g ref="char:EOLhyphen"/>ted by the nobleſt parts of the Intellect. It were a great
+un<g ref="char:EOLhyphen"/>happineſſe and diſparagement to mankind, if thoſe men ſhould dwell
+in the ſame Common-wealth, that have not the ſame braines. Igno<g ref="char:EOLhyphen"/>rance is a
+veile that hinders us to know this truth: he that ſhould have the
+happineſſe to remove this veile, but for a moment, would be aſtoniſhed
+to ſee a ſtrange Metamorpho<g ref="char:EOLhyphen"/>ſis, he ſhould ſee a new hea<g ref="char:EOLhyphen"/>ven, and a
+new world: but ſince ignorance is diſpell'd but by degrees, that which is
+cleare in it ſelfe, doth not pre<g ref="char:EOLhyphen"/>ſently <pb n="24" facs="tcp:169932:20"/>appeare ſo
+cleare. From this Countrey your Lordſhip can never be bani<g ref="char:EOLhyphen"/>ſhed, in this,
+you can endure no trouble.</p>
+               <p>The Philoſopher hath left it recorded, That ſtones doe not
+make a City but bones, not walls but men: <hi>Pompey</hi> could ſay, that
+Rome 
+<note n="s" place="margin">
+                     <hi>Me ex<g ref="char:EOLhyphen"/>ulem putas cùm omnes
+meo diſceſ<g ref="char:EOLhyphen"/>ſu exulaſſe Remp. pu<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ent?</hi> Cic. de ſeipſo. Parad. 1 <hi>Veios
+babi<g ref="char:EOLhyphen"/>tante Ca<g ref="char:EOLhyphen"/>millo illic Roma fuit.</hi>
+                  </note> went along with him when the
+better part of the Citizens went. Your Lordſhip hath carried away a great
+part of your Countrey with you, when you carried away your ſelfe: I may ſay
+that you carried a<g ref="char:EOLhyphen"/>way all of it, not all the walls, but all the hearts
+therein: Who can ſay, that he is an ex<g ref="char:EOLhyphen"/>ile that is ſo great a part of the
+admirable frame and building of his owne Coun<g ref="char:EOLhyphen"/>trey? you are not gone to
+baniſhment, but have left your <pb n="25" facs="tcp:169932:20"/>Countrey in baniſhment:
+be<g ref="char:EOLhyphen"/>cauſe all thoſe remaine Exiles that have made you one. It cannot be
+believed that <hi>Caeſar</hi> did chaſe <hi>Pompey</hi> from <hi>Rome,</hi>
+but rather that <hi>Pompey</hi> did chaſe <hi>Caeſar</hi> out of it, if he
+car<g ref="char:EOLhyphen"/>ried with him the City, when he was exiled. The Inhabitants of ſeven
+caeleſtiall ſpheares, which convey their influence by motion and light into
+this nether world: which in the number of the ſecond cauſes are the
+firſt, or certainely next to the firſt, are never fixt in their own
+Countrey, but are er<g ref="char:EOLhyphen"/>ratick, &amp; itinerant: they have their proper houſes
+(it it true) but where thy have their houſe, they have not their ha<g ref="char:EOLhyphen"/>bitation;
+onely <hi>Mercury</hi> the God of wiſedome hath his 
+<note n="t" place="margin">Termes of judici<g ref="char:EOLhyphen"/>ary
+Aſtro<g ref="char:EOLhyphen"/>logie.</note> 
+                  <hi>Houſe,</hi> his <hi>exaltation</hi> &amp; his
+<hi>triumph</hi> in one and the ſame <pb n="26" facs="tcp:169932:21"/>ſigne:
+nevertheleſſe he hath the greater force and efficacy in his unfortunate
+houſe, than in his owne: To ſhew that wiſdome doth then ſhew her
+vertues and power moſt, when ſhe is moſt unfortu<g ref="char:EOLhyphen"/>nate.</p>
+               <p>Let no man wonder that I make here a <hi>Panegyrick</hi> of
+baniſhment, I am not a little obliged unto it, it hath crea<g ref="char:EOLhyphen"/>ted me your
+friend, ſervant, ſlave, it is enough that I have ſaid Friend, ſince he
+is not a friend who is not a ſervant, yea a ſlave; though there be thoſe
+that are ſervants and ſlaves, that be not friends: for there are ſome in
+this age that name themſelves by no other ſtyle than ſlaves, who
+notwithſtanding know no o<g ref="char:EOLhyphen"/>ther friendſhip than that of profit and
+intereſt.</p>
+               <p>
+                  <pb n="27" facs="tcp:169932:21"/>I would farther expatiate in commendation of
+this your baniſhment from your Coun<g ref="char:EOLhyphen"/>trey, if (by being not allowed ſtay at
+this time in my own) I were not baniſhed out of your Lordſhips ſight:
+otherwiſe I do ſo farre like and wiſh your baniſhment, that if I had
+your worth and innocence, (if this were not to wiſh my maſter guilty) I
+would wiſh my ſelfe baniſhed. But ſince I live un<g ref="char:EOLhyphen"/>der a Prince, who
+crownes merit with reward, and never puniſheth the innocent, ſince I cannot
+be an Exile, I would make my ſelfe one; and I doe not know whether I doe not
+make my ſelfe one at this pre<g ref="char:EOLhyphen"/>ſent, or am not made ſo, but I am innocent,
+and therefore I doe make my ſelfe: I ſhould glory rather to be made one,
+becauſe it would be a glory <pb n="28" facs="tcp:169932:22"/>to be made like to your
+Lord<g ref="char:EOLhyphen"/>ſhip.</p>
+               <p>When worthyneſſe doth not advance a man higher, he gaines
+the more favour, if it caſts him lower, than if it mo<g ref="char:EOLhyphen"/>ved him not at all: if
+he be not gracious with a man, or if he be out of his favour, there is no
+better way to make him gracious than to be 
+<note n="u" place="margin">
+                     <hi>Quos injuriae in<g ref="char:EOLhyphen"/>viſos faci<g ref="char:EOLhyphen"/>unt,
+gratio<g ref="char:EOLhyphen"/>ſo, miſeriae reddunt.</hi> Val. Max. lib. 5. c. 3.</note>
+disfa<g ref="char:EOLhyphen"/>voured. Mens tongues run in his commendations, and their hearts melt in
+compaſſion of him: great worth is not with<g ref="char:EOLhyphen"/>out reward, even in this world:
+for it is found ſomtimes a<g ref="char:EOLhyphen"/>mong men, who alwaies pro<g ref="char:EOLhyphen"/>miſe that it ſhall
+be rewarded: if thoſe men do not reward it, who are the principle debtors,
+thoſe men will that have any ſhare in the benefit. Payments do cancell the
+obligation, but he that is not payd is ſtill a <pb n="29" facs="tcp:169932:22"/>creditor,
+and feeles the debt ſtill to grow, becauſe the merit ſtill increaſeth:
+So that re<g ref="char:EOLhyphen"/>wards are then moſt ample, when they are never received.</p>
+               <p>There is nothing that man 
+<note n="w" place="margin">
+                     <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Xenoph.</note> affects more than <hi>praiſe,</hi> and there is
+nothing hinders it more than <hi>envie,</hi> nor doth increaſe it more than
+pittie: he that deſires the one with<g ref="char:EOLhyphen"/>out the other, let him make himſelfe
+deſerving, and let him wiſh himſelfe unfortu<g ref="char:EOLhyphen"/>nate: merit in
+diſtreſſe doth produce the greater compaſ<g ref="char:EOLhyphen"/>ſion, by how much in
+felicity it produceth the greater envie: we are mov'd with compaſſi<g ref="char:EOLhyphen"/>on,
+becauſe we love the worth of him who is our inferiour, and becauſe we feare
+the like chance, by his example, who was our equall.<note n="x" place="margin">
+                     <hi>Ego Pompeii ca<g ref="char:EOLhyphen"/>ſum deploro &amp; meam fortunam metuo:</hi>
+The words of <hi>Caeſar</hi> when <hi>Pom<g ref="char:EOLhyphen"/>pey</hi>'s head was brought unto
+him. <hi>Suet.</hi>
+                  </note>
+               </p>
+               <p>Your Lordſhip hath with <pb n="30" facs="tcp:169932:23"/>your
+reſoluteneſſe of mind a<g ref="char:EOLhyphen"/>midſt adverſity, united two things, which
+were not wont to be at great ods and diſtance before, to wit <hi>Envie</hi>
+and <hi>Com<g ref="char:EOLhyphen"/>paſſion;</hi> and hath brought mis<g ref="char:EOLhyphen"/>fortunes into credit, and
+hath rendred them even deſirable, whilſt in the midſt of them, you have
+rendred your vertues even to envie glorious. It was the ſaying of 
+<note n="y" place="margin">
+                     <hi>Si vis me flere, do<g ref="char:EOLhyphen"/>lendum eſt
+primum ipſi tibi.</hi> Hor. de arte poet.</note> a <hi>Poet,</hi> that he
+that would draw teares from others, muſt ſhew his owne: I know not whether
+he ſpake well, becauſe I know not whether affection moves the greater
+compaſſion: this I know, that behaviour moves a better: whatever
+circum<g ref="char:EOLhyphen"/>ſtances are uſed to bewaile the chance, are turned to the admiration
+of the perſon. Some Authors believe and teach (though perhaps amiſſe) 
+<pb n="31" facs="tcp:169932:23"/>that the carriage and courage of a man do take away
+com<g ref="char:EOLhyphen"/>paſſion, becauſe they take a<g ref="char:EOLhyphen"/>way the appearance and like<g ref="char:EOLhyphen"/>lyhood of
+misfortunes, as though men cannot believe a diſaſter, if they doe not ſee
+teares; this appearance of fortitude (drawing all to the admiration of the
+perſon) makes the acerbity of the di<g ref="char:EOLhyphen"/>ſaſter to be forgotten: it doth not
+make it not to be truly believed, but not to be well conſidered: but
+admiration is not without delight, nor compaſſion without griefe: weeping
+proceeding (moſt commonly) from a mixture of ſorrow and delight, and
+behaviour uniting theſe paſ<g ref="char:EOLhyphen"/>ſions together, will make us (perhaps) to
+thaw into many teares; whereas affection will rather make us to nauſeate than
+to weep.</p>
+               <p>
+                  <pb n="32" facs="tcp:169932:24"/>The recompence of thoſe troubles which
+your Lord<g ref="char:EOLhyphen"/>ſhip hath ſuſtained for the Republique is to be troubled by it,
+but I believe that the Republique is troubled more for you than by you: a few
+men can never make a body, they can marre it, and often doe: and I believe
+alſo that your noble Lordſhip is more troubled of the Republique than by
+it.</p>
+               <p>
+                  <hi>(K)</hi> I have heard you ſpeak ſo honourably and
+reſpectful<g ref="char:EOLhyphen"/>ly of that Senate which hath baniſhed you, and ſo
+affectio<g ref="char:EOLhyphen"/>natly of your Countrey, that you would deſire (in a maner) to be
+reputed culpable, that ſhe might not be thought un<g ref="char:EOLhyphen"/>juſt: But noble Signor,
+he defends his Countrey, who defends his owne innocence: It is eaſier to
+demonſtrate <pb n="33" facs="tcp:169932:24"/>that they have not once con<g ref="char:EOLhyphen"/>ſented to
+baniſh your Lord<g ref="char:EOLhyphen"/>ſhip, than to goe about to make men believe that they have
+beene ſo often overſeene in advancing you: as if their prudence did neither
+let them foreſee and know the vices of his younger years, nor direct them how
+to curbe thoſe of his riper age: But had ſo of<g ref="char:EOLhyphen"/>ten entruſted the helme of
+their veſſell to the valour and prudence of a young man, who in the
+maturitie of his age muſt be caſhierd, as un<g ref="char:EOLhyphen"/>worthy of thoſe favours.</p>
+               <p>Republiques do often give way to calumny that they might not
+take away the trade of Informers: they had rather baniſh an innocent man,
+than ſuffer dammage by not puniſhing a guilty man. I ſay not that the
+Common-wealth <pb n="34" facs="tcp:169932:25"/>of <hi>Genoa</hi> is unjuſt, ſuch
+thoughts are farre from me: I am not ſo uncivill nor ſo diſreſpectfull.
+I honour it much: and I would be as good to ſerve it, as I am ready to
+reſpect it; and if I would not reſpect it for any other rea<g ref="char:EOLhyphen"/>ſon; I would
+for this, that it is your Lordſhips Countrey: otherwiſe in lieu of
+obtaining your love and favour, I ſhould purchaſe your hatred: I ſhould
+not comfort you but exaſpe<g ref="char:EOLhyphen"/>rate you rather, ſince you that are innocent,
+will needs be in<g ref="char:EOLhyphen"/>nocent, only becauſe you are condemned &amp; judged to be
+ſo.</p>
+               <p>It is no contradiction to be juſtly condemned and to be
+innocent: How many of<g ref="char:EOLhyphen"/>fenders are acquitted by ju<g ref="char:EOLhyphen"/>ſtice without injuſtice?
+If that ſaying of <hi>Seneca</hi> be true, that thunder-bolts are never more 
+<pb n="35" facs="tcp:169932:25"/>juſt than when they are ado<g ref="char:EOLhyphen"/>red by him that is
+thunder<g ref="char:EOLhyphen"/>ſtruck; This moſt juſt Com<g ref="char:EOLhyphen"/>mon-wealth was never more juſt than
+when it fulminated your baniſhment, who doth ſo much commend it, and with
+ſuch expreſſions of ho<g ref="char:EOLhyphen"/>nour diſcourſeth of it. Thrice happy
+Common-wealth! were all the Cittizens like you, ſhe could never commit an
+er<g ref="char:EOLhyphen"/>rour: baniſhment ſhould ne<g ref="char:EOLhyphen"/>ver be thought unjuſt, nor the baniſhed
+innocent: if at any time, ſhe were not juſt, ſuch men would make her
+ſo, when they affirme and teach that the will of their Fathers or Senators is
+their Law: In Ty<g ref="char:EOLhyphen"/>rannical Governments the will holds the place of Juſtice;
+But in a Republique where Opti<g ref="char:EOLhyphen"/>macy beares ſway &amp; rule, ſhe may well
+enough ſtand with Juſtice.</p>
+            </div>
+         </div>
+         <div n="2" type="letter">
+            <pb facs="tcp:169932:26"/>
+            <pb n="37" facs="tcp:169932:26"/>
+            <head>Another Letter in diſpraiſe of Honours.</head>
+            <opener>
+               <byline>BY the ſame Marqueſſe.</byline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have beene at a long debate with my ſelfe, Firſt,
+<hi>Whether</hi> I ſhould write unto you; and then <hi>What</hi> I ſhould
+write; to condole you had beene dangerous; if griefe had poſſeſſ'd your
+mind already, it would have increaſed its ſtrength: if it had not, it would
+have given it a beginning: To comfort you raiſ'd theſe doubts with<g ref="char:EOLhyphen"/>in me:
+either there were rea<g ref="char:EOLhyphen"/>ſons for ſo doing, and then it <pb n="38" facs="tcp:169932:27"/>would have beene ſuppoſed, that I had done it long ſine; or
+there were no reaſons, and then it would have beene an undertaking as
+unneceſſary in the one caſe, as fond and vaine in the other: you have
+loſt your dignities, nay you loſt none, if your vertues adhere to you; and
+they doe ſo, if you can deſpiſe &amp; ſcorne that which ſticks not to
+you: that <hi>circle</hi> of friends, that did compaſſe you round and
+ap<g ref="char:EOLhyphen"/>plaud you, were ſo many ene<g ref="char:EOLhyphen"/>mies; they rather beſieged you and laid wait
+for you: The friends of Honours ſwarme to the place where they reſide,
+becauſe they affect thoſe Honours: they hate thoſe that do enjoy them,
+be<g ref="char:EOLhyphen"/>cauſe they would enjoy them themſelves: He that feeles the weight of
+Honours, thinks <pb n="39" facs="tcp:169932:27"/>them inſupportable, and too heavie for
+him, and he that feeles them not is inſupport<g ref="char:EOLhyphen"/>able to them: He that is not
+burthen'd with them is a bur<g ref="char:EOLhyphen"/>then to them: ſhould a Cour<g ref="char:EOLhyphen"/>ſer that is dect
+with trappings of gold and purple, and car<g ref="char:EOLhyphen"/>ries a Generall in triumph to the
+Capitoll, take a pride in the Arches, the ſhoutes and acclamations of the
+people? or rather complaine of his accoutrements, which are a burthen rather
+than an orna<g ref="char:EOLhyphen"/>ment unto him; when gold as it is glorious, ſo it is pon<g ref="char:EOLhyphen"/>derous
+too: Alas! there are few that talke with you, but with your fortune onely: 
+<note n="a" place="margin">
+                  <hi>Pauci Reges non regna co<g ref="char:EOLhyphen"/>lunt.</hi>
+Sen. Herc. Oct.</note> few that make obeyſance to you, but to the dignities
+which you beare, and therefore no ſhare remaines to you, no more than to the
+ſteede, <pb n="40" facs="tcp:169932:28"/>but the paines and the bur<g ref="char:EOLhyphen"/>then.</p>
+            <p>If by the divine goodneſſe and clemency, ambition were once
+quite exterminated or rooted up out of the hearts of men, it would be a greater
+difficulty (I doubt not) to perſwade men to beare rule, than to obey: O
+unhappy and wretched command then, that is thus foold by ambition, which makes
+men believe, that they command others when themſelves are ſlaves both to it
+and others. He that com<g ref="char:EOLhyphen"/>mands, commands onely for to 
+<note n="b" place="margin">
+                  <hi>Magna ſervitus eſt magna for<g ref="char:EOLhyphen"/>tuna:
+ex quo Caeſar orbi terra<g ref="char:EOLhyphen"/>rum dedi<g ref="char:EOLhyphen"/>cavit fibi eripuit.</hi> Sen. Con<g ref="char:EOLhyphen"/>ſol. ad
+Po<g ref="char:EOLhyphen"/>lyb.</note> ſerve, and to ſerve thoſe which ſtoop to him only that
+they may command him: Be<g ref="char:EOLhyphen"/>hold the ſhepheard, who is an emblem of him that
+go<g ref="char:EOLhyphen"/>vernes people, and tell me whether the flock ſerves him or he the flock?
+To ſqueeze <pb n="41" facs="tcp:169932:28"/>their milke, and their wooll, doth not make
+him not to be a ſervant: it makes him not to be a free noble ſervant, but a
+mercenary one: if a man muſt ſeeke out dainty viands for food, if he muſt
+be cloa<g ref="char:EOLhyphen"/>thed with gold and purple, if armed with ſword or fire-brands, he
+hath no cauſe to complaine of nature, that ſhe hath left him (alone) among
+all creatures, as it were with<g ref="char:EOLhyphen"/>out clothes, or food, or armes: But if he would
+beare rule and dominion over men, he hath ſome cauſe to complaine of her,
+becauſe to him (alone) of all other creatures, hath ſhe aſſigned
+dominion and ſoveraignty over all other creatures. Have you loſt your
+dignities? you have not loſt them but 
+<note n="c" place="margin">
+                  <hi>Laudo manentem fortunam: ſi celeres
+quatit pen<g ref="char:EOLhyphen"/>nas reſigno quae dedit.</hi> Horat od.</note> ſurrendred them:
+they are the favours of <pb n="42" facs="tcp:169932:29"/>
+               <hi>Fortune,</hi> being ſeldome
+cha<g ref="char:EOLhyphen"/>racters of merit, but of auda<g ref="char:EOLhyphen"/>city: what other goodneſſe have they in
+them, but what he ſtamps on them, that doth enjoy them? if he be not good,
+they are not dignities but indignities, you have not then loſt your
+dignities, but they have loſt him that gave them that denomination, and made
+them 
+<note n="d" place="margin">
+                  <hi>Epami<g ref="char:EOLhyphen"/>nondas ho<g ref="char:EOLhyphen"/>nores ita geſſit,
+ut or<g ref="char:EOLhyphen"/>namentum non accipere ſed dare ipſi dignitati videretur.</hi> Juſt.
+1. Hiſt.</note> 
+               <hi>dignities.</hi>
+            </p>
+            <p>
+               <hi>(A)</hi> Some men are borne to command, and ſome to obey.
+Principality ſhould be meaſured by the intellect, not by Cities and
+Provinces: He is not always a maſter of others, that hath others under him;
+it is Fortune that confounds the workes of Nature: our Lord God hath ſtampt
+the Character of the worthieſt man in the nobleſt and wor<g ref="char:EOLhyphen"/>thieſt part of
+man: In a play <pb n="43" facs="tcp:169932:29"/>the Actors habits and diſ<g ref="char:EOLhyphen"/>guiſes may
+well deceive thoſe ſpectators that are below, but not thoſe that ſee
+them neere hand. The wiſe man was upon the ſtage to behold the Co<g ref="char:EOLhyphen"/>medie,
+when he ſaid, 
+<note n="e" place="margin">Prov. 10.7.</note> 
+               <hi>I ſee the master
+walke on foote, while the ſervants Ride on horſeback.</hi> Our world here
+below is (for the moſt part) Antipodes or Counter to that of the
+Inteligences, there they argue the greateſt digni<g ref="char:EOLhyphen"/>ty from the greateſt
+meaſure of knowledge: and here he hath the greateſt dignities (often) who
+hath the leaſt portion of knowledge; when a man is borne in a higher degree
+or condition, and is inferiour in braine, he is an error or overſight of
+nature, a monſter: or if ſo be ſhe had an intention to make him 
+<pb n="44" facs="tcp:169932:30"/>ſuch, it was either to chaſtiſe, or to inſtruct, to
+ſhew that all that are borne in this world are not borne for the world.</p>
+            <p>Would you know what kind of things thoſe dignities were which
+you enjoyed? conſider what thoſe are that do enjoy them: with how ma<g ref="char:EOLhyphen"/>ny
+would you change condi<g ref="char:EOLhyphen"/>tions, if you were to change perſons withall?
+wherefore they are not good of them<g ref="char:EOLhyphen"/>ſelves, ſince they doe not 
+<note n="f" place="margin">
+                  <hi>Quid<g ref="char:EOLhyphen"/>quam nc Bonum eſt, quod non eum
+qui poſſidet, me<g ref="char:EOLhyphen"/>liorem fa<g ref="char:EOLunhyphen"/>cit?</hi> Cic. parad. 1.</note> make men good: I
+have ſeen them more apt to corrupt goodneſſe than to beget it: our nature
+is too frayle to at<g ref="char:EOLhyphen"/>taine to perfection in good<g ref="char:EOLhyphen"/>neſſe: it is
+raſhneſſe to ſeeke an augmentation of vertue from temptation; for they
+doe (oftentimes) change it, but alwayes impaite it: To ſubdue our owne
+affection is <pb n="45" facs="tcp:169932:30"/>a difficult task: But to van<g ref="char:EOLhyphen"/>quiſh both our
+owne and o<g ref="char:EOLhyphen"/>thers too is almoſt impoſſible: what mind will bound its
+contentment with a little that enjoyeth much? what humi<g ref="char:EOLhyphen"/>lity that meets with
+obſequi<g ref="char:EOLhyphen"/>ouſneſſe and homage, doth not turne to pride?</p>
+            <p>Dignity is like a purple at<g ref="char:EOLhyphen"/>tire which doth embelliſh dirt
+becauſe it hides the uglineſſe of it, but diſgraceth gold, becauſe it
+hides the ſplendour of it. Every thing is bright where the ſun ſhineth:
+but a car buncle, if you will have it glitter and ſparkle, place it in the
+dark: remove it out of another light, if you will ſee its owne. Vertue
+deſires to be naked, diſpoyld of dignities, and ſe<g ref="char:EOLhyphen"/>queſtred from
+wealth, it is a gemme that ſhewes all its worth, when it is all diſcoverd, 
+<pb n="46" facs="tcp:169932:31"/>it cannot be ſo neatly en<g ref="char:EOLhyphen"/>chac'd, but the beauty of that
+part will be conceald that is enchaced.</p>
+            <p>You are come downe from the hill, not thrown downe thence: and now
+ſince we are all upon the plaine, and levell, we will meaſure them
+together. The diſtance of the eye deceiveth it: in figures that are
+handſome, it perceives not all the beauty of them, and in thoſe that are
+miſha<g ref="char:EOLhyphen"/>pen it diſcovers not all their defects: a little ſtatue be<g ref="char:EOLhyphen"/>comes
+not greater by being placed on a hill, nay ſtatues being placed on high doe
+leſ<g ref="char:EOLhyphen"/>ſen, or (at leaſt) ſeeme leſſer to the eye of him that beholds
+them, though not to him, who taking the baſis with the ſtatue doth
+meaſure both to<g ref="char:EOLhyphen"/>ther.</p>
+            <p>
+               <pb n="47" facs="tcp:169932:31"/>Men are not therefore neerer heaven becauſe
+they are advanc'd above us: he that mounts higher hath the more need to
+deſcend; the way to climbe high is not to climbe: you may ſee one ex<g ref="char:EOLhyphen"/>alted
+upon the throne above o<g ref="char:EOLhyphen"/>thers, who is far below others; the thoughts of that
+man who ſeemes to you to touch the Starres, are oftentimes as low as Hell:
+that body which you ſee is not the body of him you ſee, it is his
+carcaſſe, 
+<note n="g" place="margin">
+                  <hi>Scito t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mortalem non eſſe, ſed corpus hoc: nec enim is es
+quem forma iſta declarat; ſed mens cu<g ref="char:EOLhyphen"/>juſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> is eſt quiſque.</hi>
+Cic. In ſomn. Sci<g ref="char:EOLhyphen"/>pionis.</note> there man is where his beſt part
+reſides, or if he be not there, he ſhall goe thither.</p>
+            <p>Heaven is made for humble men, not for the great ones; he that is
+ſometimes neereſt unto it, ſees it leaſt; he that ſtands on the toppe
+of a mountaine, ſees nothing elſe but the ſunne, whereas he that 
+<pb n="48" facs="tcp:169932:32"/>is in the bottome of a well, can thence number the
+ſtarres alſo. You may (per<g ref="char:EOLhyphen"/>haps) be agrieved that your command is taken
+from you: Nature which hath planted in man that moſt 
+<note n="h" place="margin">
+                  <hi>Cupi<g ref="char:EOLhyphen"/>do domi<g ref="char:EOLhyphen"/>nandi cun<g ref="char:EOLhyphen"/>ctis
+affecti<g ref="char:EOLhyphen"/>bus flagran<g ref="char:EOLhyphen"/>tior.</hi> Tacit. 2. Hiſt</note> ardent de<g ref="char:EOLhyphen"/>ſire of
+command, would have ſhewed her ſelfe an envious mother, if ſhe had not
+alſo given ſomething to command. There is no man but hath <hi>(B)</hi> a
+kingdome within himſelfe, and he is not worthy to be a king over others, that
+is not firſt a king over himſelfe; re<g ref="char:EOLhyphen"/>joice that you are a comman<g ref="char:EOLhyphen"/>der over
+your own affections, to ſee your paſſions ſo good ſubjects. This
+Harmonie brings you to hear that of the ſpheres, and to contemplate that of
+God himſelfe, and in this moſt delightfull Symmetrie, you ſhall taſt
+that peace and tran<g ref="char:EOLhyphen"/>quility <pb n="49" facs="tcp:169932:32"/>of mind, which was by ancient
+ſages reputed the fe<g ref="char:EOLhyphen"/>licity of the Bleſſed. If you may not come in place
+to right the oppreſſed, and doe them juſtice, yet you may procure it to
+be done: if you have nothing left to relieve men withall, yet you have whereby
+to pitty them, and that poverty which you can<g ref="char:EOLhyphen"/>not relieve, you can ſupport
+and beare: In all places there is a place for the exerciſe of vertue, for one
+that would exerciſe vertue and not am<g ref="char:EOLhyphen"/>bition, and there it appeares
+greateſt, where the leaſt re<g ref="char:EOLhyphen"/>ward is expected by it.</p>
+            <p>What availes it a man to be a commander over others, if he be 
+<note n="i" place="margin">
+                  <hi>Si vis omnia tibi ſubjici,
+teip<g ref="char:EOLhyphen"/>ſum ſubjice rationi.</hi> Sen. Lib. 1. Ep. 36. <hi>Multos re<g ref="char:EOLhyphen"/>ges ſi
+ratio t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> rexerit.</hi> Idem.</note>
+a ſlave of his owne paſſions? what availeth it to dwell in palaces (to
+whoſe ſumptuous frabricke <pb n="50" facs="tcp:169932:33"/>even the remoteſt provinces
+of the world are tributaries) if in the meane while the ſoul inhabits a
+ſordid naſty body? what harmony can recreate that man that is compoſ'd of
+nought but diſcord within himſelfe? and what food can nouriſh him that
+labours with a thouſand diſeaſes, and is upon the rack of torments? Is
+not this body of clay e<g ref="char:EOLhyphen"/>nough to preſſe downe the ſoule, except we clogge
+it al<g ref="char:EOLhyphen"/>ſo with the weight of Citties, and provinces and king<g ref="char:EOLhyphen"/>domes? the
+greatneſſe of dignities is a circumſtance which doth alwayes adde weight
+unto our faults, but never to our ſervices, and this is ſometimes mens
+reward in the world, that have deſerv'd well of it. It is very true that this
+tranſition from a place <pb n="51" facs="tcp:169932:33"/>of eminent command, unto a
+private life is not eaſily 
+<note n="k" place="margin">
+                  <hi>Infeli<g ref="char:EOLhyphen"/>ciſſimu<g ref="char:cmbAbbrStroke">̄</g> in<g ref="char:EOLhyphen"/>fortunii ge<g ref="char:EOLhyphen"/>nus
+eſt ali<g ref="char:EOLhyphen"/>quando fu<g ref="char:EOLhyphen"/>iſſe felicem.</hi> Boet. de conſol. l. 2.</note>
+concocted, except onely by thoſe, who doe not change their intellect by
+changing their condition; if a painter blot out a picture that was drawne in a
+table, and makes a new one in its place, that table is not the ſame though it
+be the ſame, becauſe the table doth not give the name to the picture, but
+the picture to it: our underſtanding is a 
+<note n="l" place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>velut tabu<g ref="char:EOLhyphen"/>la raſa.</hi> Ariſt. 3. de aima.</note>
+               <hi>ſheene tablet</hi> wherein no lines are drawne, the pictures and
+<hi>fantaſmes</hi> of great ones, which are imprinted in it, are not the
+ſame with thoſe of private men, therefore the ſame mans intellect, is not
+the ſame when he becomes a private man: the change of a mans condition is the
+death of one man, and the generati<g ref="char:EOLhyphen"/>on <pb n="52" facs="tcp:169932:34"/>of another; and a
+good death it is, if it be the generati<g ref="char:EOLhyphen"/>on of a good man. Troubles, my friend,
+are (when we erre) the rewards of our errors, and when we doe not erre, an
+aug<g ref="char:EOLhyphen"/>mentaion of our merit, either they abate and expiate the ill, or augment
+the good: they are alwayes good themſelves, be<g ref="char:EOLhyphen"/>cauſe he is alwayes good
+that ſends them; if they appeare Evill, it is becauſe he is evill that
+ſuffers under them.</p>
+            <p>You are not unforuunate be<g ref="char:EOLhyphen"/>cauſe you have loſt your
+digni<g ref="char:EOLhyphen"/>ties; rather you are happy if you look not after them: he obtaines enough
+who obtaines this, even to deſire nothing: thoſe men are happy from whom
+Fortune cannot take away, not they on whom ſhe may beſtow: ſhe is not
+unplea<g ref="char:EOLhyphen"/>ſing, but to him, who was too <pb n="53" facs="tcp:169932:34"/>much pleas'd with
+her: ſhe can<g ref="char:EOLhyphen"/>not take away but from him that was her Almſman: we call her
+unjuſt, when we our ſelves are ſo. We complaine of her for taking that
+which ſhe had beſtowed, in ſtead of giving her thanks that ſhe had
+be<g ref="char:EOLhyphen"/>ſtowed it: ſhe doth not rob but reaſſume: our worldly felicities are
+but borrowed; when they are not reſtored back, they leave us of
+them<g ref="char:EOLhyphen"/>ſelves: Death is aminiſter of 
+<note n="m" place="margin">He meanes Fate or Provi<g ref="char:EOLhyphen"/>dence.</note>
+               <hi>Fortune,</hi> and ſee what arreares of debts are unpayd unto this, they
+will be exacted of that other.</p>
+            <p>He that (in misfortunes) looſeth not the ſtring of ver<g ref="char:EOLhyphen"/>tue, is
+like an arrow which (when it looſeth not the ſtring of the bow) doth fly
+ſo much the more forward, by how much the more it was drawne 
+<pb n="54" facs="tcp:169932:35"/>backward: Fortune doth not retreate with an intention to
+forſake, but to prove us, and where it finds great ſpirits, there it
+returnes with the greater equipage. He deſerves not to entertaine Fortune at
+her beſt, when hee cannot beare her company at the worſt: whilſt we
+ſeeke her unſeaſonably before the time, we often times meete our death,
+and whilſt ſhe returnes to us at her own leaſure, ſhe doth often find
+us dead. He that hoiſeth ſailes and diſ<g ref="char:EOLhyphen"/>playes them upon the
+ſaile<g ref="char:EOLhyphen"/>yards when the ſea is rough and boiſtrous, either ſinkes the
+veſſell or ſplitts it: we muſt be content to keepe be<g ref="char:EOLhyphen"/>low when our
+being higher may endanger our ſinking. He that cannot obtaine a calme, and
+yet by all meanes <pb n="55" facs="tcp:169932:35"/>will needes ſaile in a tempeſt, doth
+not ſaile, but runne a ground, and doth (many times) make himſelfe unfit to
+entertaine calme weather when it comes and ſmiles upon him, becauſe it
+finds him either already ſplitt or drownd. Adverſitie hath not the power to
+diſturbe much, but ſuch a 
+<note n="n" place="margin">
+                  <hi>Quem res plus ju<g ref="char:EOLhyphen"/>ſto
+delecta<g ref="char:EOLhyphen"/>vêre ſecum<g ref="char:EOLhyphen"/>dae, mutatae quatient.</hi> Horat. ep. l. 1.</note>
+minde as was enervated by proſperity. If the <hi>Stoikes</hi> had not
+confounded together the paines of the body with the paſſions of the minde,
+they had not (perhaps) fancied an <hi>(C)</hi> impaſſibility, when they
+fancied an indo<g ref="char:EOLhyphen"/>lencie: for as in one caſe, it cannot conſiſt with a
+ſound mind; ſo in the other caſe it may be imputed (perhaps) to the
+greatneſſe of wiſdome: Diſaſters are light or 
+<note n="o" place="margin">
+                  <hi>Ad o<g ref="char:EOLhyphen"/>pinionem dolemus: tam miſer
+eſt quiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> quam cre<g ref="char:EOLhyphen"/>dit.</hi> Sen. Epiſt. 78. lib. 1.</note> hea<g ref="char:EOLhyphen"/>vie
+as we are pleaſed to make <pb n="56" facs="tcp:169932:36"/>them; for they have no o<g ref="char:EOLhyphen"/>ther
+being or exiſtence than in opinion: if they were reall things they would be
+alike in all.<note place="margin">
+                  <hi>Nemo ali<g ref="char:EOLhyphen"/>orum ſenſu miſer eſt.</hi>
+Salvian. de provid. l. 1.</note>
+            </p>
+            <p>Conſider in your caſe how many men there be who have not
+thoſe dignities which you poſſeſſe, and yet doe not com<g ref="char:EOLhyphen"/>plain. If you
+reply that they do not complaine for not having them, becauſe they have not
+had them; you complaine (it ſeemes) not for what you are, but for what you
+have beene, and ſo you grieve for good, and not for evill; nay tell me alſo
+how many in<g ref="char:EOLhyphen"/>firme men, how may beggers other ſorts of people would deeme
+themſelves 
+<note n="p" place="margin">
+                  <hi>Null a<g ref="char:cmbAbbrStroke">̄</g> tam miſer a<g ref="char:cmbAbbrStroke">̄</g> nominabis domum
+quae non inveni<g ref="char:EOLhyphen"/>at in miſe<g ref="char:EOLhyphen"/>riore ſolati<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m.</hi> Sen. Conſ. ad Marciam cap. 12.</note> happy, if they were
+in your condition? and doe you call it an unhappineſſe to be that which
+ſo many men would <pb n="57" facs="tcp:169932:36"/>account happineſſe to arrive at? if
+you be upon thoſe terms (which I ſcarſe believe) you are no way unhappy
+but that you underſtand not your owne happineſſe.</p>
+            <p>All eſtates and conditions of men in the world are 
+<note n="q" place="margin">
+                  <hi>Mihi videtur re<g ref="char:EOLhyphen"/>rum natura quod
+gra<g ref="char:EOLhyphen"/>viſſimum fecit, com<g ref="char:EOLhyphen"/>mune feciſ<g ref="char:EOLhyphen"/>ſe: ut cru<g ref="char:EOLhyphen"/>delitatem fati
+conſo<g ref="char:EOLhyphen"/>laretur ae<g ref="char:EOLhyphen"/>qualitas.</hi> Sen. Conſ. ad Polyb. cap. 21.</note>
+equall, if a man will not change croſſes with any other when he ſees what
+comes to every mans lott and ſhare: much leſſe will he change fe<g ref="char:EOLhyphen"/>licities
+with any: for thoſe alſo are equall if not in the ſcales of weight, yet
+(at leaſt) in the ballance of juſtice: and if (at any time) the
+freſhneſſe or noveltie make a difference, it is the difference but of a
+few dayes; aſſuefaction will preſenly produce it to a Geo<g ref="char:EOLhyphen"/>metricall
+equality. The feli<g ref="char:EOLhyphen"/>cities of this world are not in things themſelves, they
+ſub<g ref="char:EOLhyphen"/>ſiſt <pb n="58" facs="tcp:169932:37"/>in opinions onely, and ſo become great or
+ſmall, accor<g ref="char:EOLhyphen"/>ding as they are apprehended, and they have the greateſt
+ſhare of them, that believe they have it: Soveraignty is like a mountaine
+which ſeemes to the ſubjects (who are at the foot of it) with his towring
+head to touch the ſkie, but to thoſe that are at the toppe, it ſeemes
+with his baſis to reach hell,</p>
+            <p>There is no degree or con<g ref="char:EOLhyphen"/>dition of man but is ſubject to
+ſatiety: we ever deſire what we doe not poſſeſſe; and our will
+(ſince it lives un<g ref="char:EOLhyphen"/>der thoſe ſpheres, which are in perpetuall motion) can
+never be at reſt; private perſons doe envy the great<g ref="char:EOLhyphen"/>neſſe of Princes,
+and Princes do envy the quiet repoſe of 
+<note n="r" place="margin">
+                  <hi>Si non eſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m Alex and. Dio<g ref="char:EOLhyphen"/>genes eſſe vellem.</hi> Plut. de
+Fortuna Alexand.</note> private perſons: yet they <pb n="59" facs="tcp:169932:37"/>will
+never deſcend or reduce themſelves to this ſtate of life; but rather
+ſtill feare what they (ſometimes) deſire; As though they are aſham'd to
+become ſuch as they would ſeeme to deſire to have been at firſt. Be not
+therefore troubled that you are arrived at that ſtate of life, which you have
+often envied in them that did enjoy it. There are ſome ſort of maladies
+incident to men that the party muſt be well beaten before he can be cur'd.
+What things doe men uſe to wiſh to ſoules departed, that they may be
+happy? not inceſſant motion I trow, but everlaſting reſt: behold you
+are this day inveſted in that bliſſe which you ſhall enjoy in eternity,
+if you can beare it well in this temporall life; Every man that hath his
+quiet<g ref="char:EOLhyphen"/>neſſe <pb n="60" facs="tcp:169932:38"/>is not at eaſe, but as that motion is
+beſt, the Author and cauſe whereof is ever quiet: ſo that quietneſſe
+is worſt, which hath within it an active principle that loves no reſt.</p>
+            <p>Reſt you quietly my friend, under the cover of that har<g ref="char:EOLhyphen"/>bour to
+the which that wind of <hi>Envy</hi> hath driven you, which thought to drowne
+you: avoid the angry and unquiet Ocean, that ſea which hath ſwallowed even
+<hi>(D) Palinures</hi> and expert <hi>Pilots,</hi> or when they could not break
+them with a ſtorme, have lulld them faſt aſleepe. You have already buried
+Envy under your ruines, and over them you may build <hi>Coloſſuſes,</hi>
+or monuments of glory; you are not fallen, you have onely layd your ſelfe
+downe, not by any feaver or maladie, but with a <pb n="61" facs="tcp:169932:38"/>purpoſe
+to take your repoſe. Envy is left behind to waite upon thoſe dignities
+which you enjoyed, which are no way good if they be envied: <hi>Envy</hi> is a
+worme which breedes onely among corrup<g ref="char:EOLhyphen"/>tion, it doth not flie at true worth and
+goodneſſe, if it doth not find it wrapt in ſe<g ref="char:EOLhyphen"/>cular affaires which are
+at<g ref="char:EOLhyphen"/>tended with profit and glo<g ref="char:EOLhyphen"/>rie.</p>
+            <p>There is no other way of goodneſſe than to be good in Gods
+eyes, and he that is ſuch is ſo ſecure from envy, that he oftentimes
+falls with<g ref="char:EOLhyphen"/>in the compaſſe of compaſſion. Conſider thoſe who live
+like wild beaſts among craggy rocks, and horrid woods, who being full of
+grace and celeſti<g ref="char:EOLhyphen"/>all vertues, and being ſeque<g ref="char:EOLhyphen"/>ſtred from men, doe mix
+con<g ref="char:EOLhyphen"/>verſation <pb n="62" facs="tcp:169932:39"/>with the Angells in the contemplation of
+their Creator: and then tell me, I pray you, whether any doth envy their
+condition? either they are pittied or commen<g ref="char:EOLhyphen"/>ded. Moreover let us regard
+thoſe vertues rather, which make a man good, than thoſe which make a man
+great, ſo we ſhould live ſafe from the envy of men, who meaſure
+goodneſſe by greatneſſe, and thinke him the better man who is the
+higher; leave friend theſe walls which hin<g ref="char:EOLhyphen"/>der your proſpect, and con<g ref="char:EOLhyphen"/>tract
+your Horizon, theſe walls which take away the prerogative which God gave unto
+man, to contemplate heaven without diſcompoſing his head: what other thing
+doth thoſe black habits im<g ref="char:EOLhyphen"/>port (which at firſt entrance 
+<pb n="63" facs="tcp:169932:39"/>doe greet our eyes) than griefe and ſorrow, for the
+loſſe of liberty which un<g ref="char:EOLhyphen"/>awares they are deprived of? To live in a great
+Citty, what is it but to live in a ſpacious priſon where men are ſo
+wretched, and loſt, that they know not their owne natu<g ref="char:EOLhyphen"/>rall neceſſities,
+except the ſenſeleſſe clock (which is in perpetuall motion) put them in
+mind of them? as though all things here depended upon the wheele of Fortune or
+of the clock: Leave (I ſay) my friend theſe walls which can never ſo
+defend you, but they (at the ſame time) may op<g ref="char:EOLhyphen"/>preſs you with their fall.
+Come with me under the coole ſhades of Cedars and Beech: come where no other
+inchant<g ref="char:EOLhyphen"/>ment ſhall fill your eares than the chanting of the nighting<g ref="char:EOLhyphen"/>gall, 
+<pb n="64" facs="tcp:169932:40"/>nor any other murmurs than that of the chriſtall brooks:
+where all favours and benefits are expected from the bounty of heaven, not of
+men; Here you ſhall ſee the Philomel innocently diſplaying her wings, and
+freely roving in the woods from tree to tree, and with the ayre of her wings,
+mingle the ſweete ayre and warbling notes of her voice: not like the Citty
+birds which are con<g ref="char:EOLhyphen"/>ſtrained to make their voices mercenary, to beg their
+meate in tune, and earne it with a muſicke leſſon, ſo that I know not
+whether theſe priſoners (being alſo bewitched with theſe walls) do
+lament or ſing the loſſe of their owne liberty. Here the waters runne
+under the harmleſſe laurel with chaſt and undefiled beautie, and
+(ſome<g ref="char:EOLhyphen"/>times <pb n="65" facs="tcp:169932:40"/>running gently out of their chanells leaving
+pearly drops upon the golden floures, and ſweetly kiſſing the ena<g ref="char:EOLhyphen"/>mell'd
+herbs, do make them teemingly fertile with their amorous embraces: There (in
+the Citties) you may ſee them forced from their naturall courſe, and
+defloured, and (be<g ref="char:EOLhyphen"/>ing conveyed through cloſe priſons and chanells) taught
+to aſpire proudly towards heaven, to fall (afterwards) more violently to the
+earth. See how theſe matters do in<g ref="char:EOLhyphen"/>ſtruct us that in the Citties, men
+cannot (in their owne naturall ſtate) be advanced, that have not firſt
+loſt their native liberty; and that the end of their exaltation and mounting
+up is to 
+<note n="s" place="margin">
+                  <hi>Tollun<g ref="char:EOLhyphen"/>tur in altum, t<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> caſu gravi<g ref="char:EOLhyphen"/>ore ruant.</hi>
+Claud.</note> fal with the greater precipitation.</p>
+         </div>
+         <div type="note">
+            <pb n="66" facs="tcp:169932:41"/>
+            <p>THe Learned Abbot <hi>Lan<g ref="char:EOLhyphen"/>cellotti</hi> in his worke cal<g ref="char:EOLhyphen"/>led
+<hi>L'Hoggi dis-inganno,</hi> makes it his aime and deſigne to vindicate the
+<hi>preſent age</hi> from the vulgar error and imputation, that it is
+degenerated from the glory of <hi>antient times,</hi> and that the world
+<hi>(Mandrabuli more)</hi> the older it growes, the worſer it is. To
+encounter the torrent of popular Opinion herein, he demonſtrates both by
+artificiall and inartificiall arguments, that preſent times are no<g ref="char:EOLhyphen"/>thing
+inferiour to thoſe of our Fore-fathers, either in <hi>Vertue</hi> or
+<hi>Arts, Learning</hi> or <hi>Man<g ref="char:EOLhyphen"/>ners.</hi>
+            </p>
+            <p>For <hi>Learning,</hi> he produceth inſtances (of ſeverall
+kinds) to <hi>confront</hi> Antiquitie, and to <hi>beard</hi> the
+<hi>Zanzummims</hi> or Giant-wits of former Ages. <pb n="67" facs="tcp:169932:41"/>Among
+others, he musters this learned <hi>Marqueſſe,</hi> (the Author of theſe
+Letters) and places him in the front and among the <hi>Primi-pili</hi> of that
+Learned ar<g ref="char:EOLhyphen"/>my of pen men, which he doth <hi>array</hi> and <hi>marſhall</hi>
+in that work; He ſaith that the Antients need not boaſt of their
+<hi>Tacitus</hi> or <hi>Seneca</hi> where <hi>Malvezzi</hi> is, for thoſe two
+are contracted and blended into this one perſon, and he inherits the
+perfections of them both.</p>
+            <p>It is moſt certaine that our noble Author here, is a
+perſo<g ref="char:EOLhyphen"/>nage that deſerves all theſe Commendations, except the
+<hi>obſcurity</hi> of his ſtile chance to <hi>obſcure</hi> his worth, and
+make him leſſe valued, becauſe leſſe underſtood. Like the
+<hi>Cuttle<g ref="char:EOLhyphen"/>fiſh,</hi> he hides himſelfe too much in his owne inke: his
+draughts or pictures have too much <hi>ſha<g ref="char:EOLhyphen"/>dow,</hi> 
+               <pb n="68" facs="tcp:169932:42"/>and
+his <hi>Tablets</hi> ſeeme like ſo many <hi>night-peeces:</hi> He is
+another <hi>Heraclitus,</hi> ſo darke and obſcure, that even his own
+Countrey men are thought witts when he is understood by them.</p>
+            <p>I have therefore (upon better thoughts) conſidered that a
+pedantick &amp; <hi>ſtraight-lac'd</hi> tran<g ref="char:EOLhyphen"/>ſlation was not ſufficient
+for this peece, but that ſome paſſages (at leaſt) requir'd more light
+and larger Illuſtrations, which I have endeavoured to perform, and annexed
+them in the ſub<g ref="char:EOLhyphen"/>ſequent pages; which now pre<g ref="char:EOLhyphen"/>ſent themſelves to the
+<hi>Readers</hi> view and <hi>Candor.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="annotations">
+            <pb n="69" facs="tcp:169932:42"/>
+            <div n="1" type="letter">
+               <head>Some Paſſages il<g ref="char:EOLhyphen"/>luſtrated in the firſt
+LETTER.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">G</seg>Enoa.</hi> §.] A Free State or Common-wealth in
+<hi>Ita<g ref="char:EOLhyphen"/>lie;</hi> called by the French <hi>Genes:</hi> It is governed in chief
+by a <hi>Duke,</hi> whoſe office is an<g ref="char:EOLhyphen"/>nuall, and whoſe authority (during
+his wardſhip) is re<g ref="char:EOLhyphen"/>gulated by eight <hi>Governours</hi> and ſo many
+<hi>Protectors,</hi> whoſe office extends to the ſpace of two yeares, as
+<hi>Monſ: Bodin</hi> informes me; Theſe are all choſen by the <hi>Grand
+Councell</hi> of foure hundred which is <pb n="70" facs="tcp:169932:43"/>term'd the
+<hi>Signory.</hi> There is alſo beſides theſe, a <hi>Senate</hi> which
+conſiſts of a hundred ſelect perſons, who are choſen into that
+dignity by <hi>balls,</hi> as at <hi>Venice.</hi> So <hi>Bod. lib.</hi> 2.
+<hi>de Repub.</hi>
+               </p>
+               <p>There is a ſtanding army belonging to this
+<hi>Republique,</hi> conſiſting of foure thouſand horſe and foote,
+under the Command of ſome expert <hi>Generall.</hi> In which quality this
+noble <hi>Signor Vincent Im<g ref="char:EOLhyphen"/>periall</hi> was, as may be eaſily gathered from
+the Tenor of this <hi>Letter.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">section </seg>B</label>
+                  <hi>Oſtraciſme.</hi>
+§. This was a baniſhment uſed among the <hi>Athenians</hi> and
+<hi>Epheſians;</hi> which hath its name and de<g ref="char:EOLhyphen"/>nomination from
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which ſignifies a ſhell:
+becauſe the humorous Citizens did uſe to write their votes upon 
+<pb n="71" facs="tcp:169932:43"/>
+                  <hi>fiſh ſhells</hi> when they had a mind to baniſh
+any out of their ſociety: And that was as often as any <hi>qualm</hi> of
+feare came over their ſtomacks; If they began to feare any mans wealth, or
+power, and favour with the people. 
+<note place="margin">In Alcibi<g ref="char:EOLhyphen"/>ade &amp; A<g ref="char:EOLhyphen"/>ſtide.</note>
+                  <hi>Hoc
+genus Exilii civibus potentiâ &amp; glo<g ref="char:EOLhyphen"/>riâ praeſtantioribus
+irrogatur, non malis ant obſcuris homini<g ref="char:EOLhyphen"/>bus,</hi> as <hi>Plutarch</hi> hath
+recor<g ref="char:EOLhyphen"/>ded. This baniſhment was for the ſpace of tenne yeares, and did not
+extend to con<g ref="char:EOLhyphen"/>fiſcation of goods. Hereof <hi>Ariſtotle</hi> makes mention,
+<hi>Polit. lib.</hi> 3. <hi>cap.</hi> 9.</p>
+               <p>Of this nature was the <hi>Petaliſmus</hi> in
+<hi>Siracuſe,</hi> pra<g ref="char:EOLhyphen"/>ctiſed by writing the name of the party to be
+baniſhed upon an <hi>Olive-leafe,</hi> without expreſ<g ref="char:EOLhyphen"/>ſing his crime, or
+a reaſon of his <hi>proſcription;</hi> for it was <pb n="72" facs="tcp:169932:44"/>frequently done without any reaſon.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">section </seg>C</label>
+                  <hi>Stoicall indolencie.</hi>
+§. This is that <hi>Apathy,</hi> impertur<g ref="char:EOLhyphen"/>bation, and conſtant tenor of
+mind that is imputed to the <hi>Stoicks;</hi> as though they taught that a
+diſcreet wiſe man ſhould be never affected either with other mens
+diſa<g ref="char:EOLhyphen"/>ſters or his owne: But they that tooke their meaning ſo, miſtooke
+them. They teach (indeed) that a wiſe man is ſo good a Commander of
+himſelfe and his own paſſions, that he is never <hi>transported</hi> by
+them, or (like <hi>Phaeton</hi>) hur<g ref="char:EOLhyphen"/>ried headlong: But his <hi>Rea<g ref="char:EOLhyphen"/>ſon</hi>
+doth ſtill poſſeſſe the <hi>throne</hi> and <hi>ſcepter,</hi> and
+holds the golden reigns of Sove<g ref="char:EOLhyphen"/>raignety in her hand; And doth exerciſe her
+Iurisdiction, not by killing theſe <hi>Gibeonites,</hi>
+                  <note place="margin">Joſua. 6.21.</note> 
+                  <pb n="73" facs="tcp:169932:44"/>but by keeping them in
+obe<g ref="char:EOLhyphen"/>dience, and making them ſer<g ref="char:EOLhyphen"/>viceable.</p>
+               <p>A wiſe man is a <hi>man</hi> as well as other mortalls:
+<hi>Seneca</hi> (who was <hi>germaniſſimus Stoi<g ref="char:EOLhyphen"/>cus,</hi> as
+<hi>Cicero</hi> calls him,<note place="margin">Acad. qu. 1.</note> a true bred
+<hi>Stoick</hi>) did confeſſe as much: 
+<note place="margin">Epiſt. 71.</note>
+                  <hi>non educo ſapientem
+ex hominum numero,</hi> &amp;c. And <hi>Antoninus</hi> ſirnam'd the
+<hi>Phi<g ref="char:EOLhyphen"/>loſopher,</hi> (who had imbided as much <hi>Stoiciſme</hi> as any
+other) did betray as much by the teares that the ſhed for this foſter
+father: and when he ſeemed to ſome ſevere gra<g ref="char:EOLhyphen"/>vities to lament beyond
+<hi>deco<g ref="char:EOLhyphen"/>rum,</hi> his father <hi>Antoninus Pius,</hi> ingeniouſly excuſed
+him: <hi>per<g ref="char:EOLhyphen"/>mitte illi ut homo ſit,</hi> &amp;c. per<g ref="char:EOLhyphen"/>mitt him (ſaith he)
+to be a man: for neither Philoſophy nor Empire takes away affe<g ref="char:EOLhyphen"/>ctions.</p>
+               <p>
+                  <pb n="74" facs="tcp:169932:45"/>
+                  <hi>Seneca</hi> alſo in his conſola<g ref="char:EOLhyphen"/>tory
+Epiſtle to <hi>Polybius</hi>
+                  <note place="margin">Cap. 37.</note> is ſo farre
+from condemning him for his ſorrowing, that he con<g ref="char:EOLhyphen"/>demnes thoſe that did
+con<g ref="char:EOLhyphen"/>demne him, and calls them <hi>durae magis quam fortis pruden<g ref="char:EOLhyphen"/>tiae
+Viros,</hi> rather hard-hearted than valiant men.</p>
+               <p>An unchangeable tenor and temper of affections is not onely
+above the conditions of men but of the holy angells alſo: for they have an
+alterna<g ref="char:EOLhyphen"/>tion of joyes and ſorrows; as they rejoice over penitent ſinners,
+ſo they grieve and mourne for the fall of a holy man, or ſome bright
+ſtarre in the <hi>firmament</hi> of Gods Church, below.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">section </seg>D</label>
+                  <hi>There is no evill.</hi>
+§. Among the writings of the <hi>Stoicks</hi> there are many ſingular
+ſtreins which we uſually call <hi>Para<g ref="char:EOLhyphen"/>doxes,</hi> 
+                  <pb n="75" facs="tcp:169932:45"/>and
+what <hi>Cicero</hi>
+                  <note place="margin">Praefat: ad Paradoxa.</note> calls
+<hi>mirabilia Stoicorum</hi> the rare and wonderfull <hi>Cabal</hi> of the
+<hi>Stoicks,</hi> of which kind, divers are ſcattred by the <hi>Noble</hi>
+Author in the preceding letters, whereof this is one: That the evill of ſinne
+onely, and not the evill of puniſh<g ref="char:EOLhyphen"/>ment; that which we doe, not that which we
+ſuffer, de<g ref="char:EOLhyphen"/>ſerves the name of evill. And this doctrine hath beene
+de<g ref="char:EOLhyphen"/>livered from an eloquent <hi>Fa<g ref="char:EOLhyphen"/>ther</hi>
+                  <note place="margin">Chryſoſt.</note> from the pulpit, ſaying: 
+<note place="margin">Apud Six<g ref="char:EOLhyphen"/>tum Sen. 4 Bibl.</note>
+                  <hi>Maximum
+fieri ex tribulatio<g ref="char:EOLhyphen"/>nibus lucrum; &amp; ſupplicia mor<g ref="char:EOLhyphen"/>talibus a Deo
+immiſſa, eſſe divinae pietatis beneficia:</hi> which is as much as to
+ſay, that our greateſt foes are our beſt friends; that ſufferings are
+bleſſings, and that we often gaine by our loſſes. Theſe may ſeeme
+<hi>Riddles,</hi> but (upon ſeri<g ref="char:EOLhyphen"/>ous <pb n="76" facs="tcp:169932:46"/>deliberation) they
+are found ſober truths: <hi>Poverty,</hi> exile, impriſonment, bodily
+infirmities, and the like (which moſt men account the chiefeſt of evills)
+are not evill indeed, but partake more of good than evill.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">subsection </seg>1</label>
+                  <hi>Poverty</hi> is the
+harbour of peace and ſecurity: where undiſturbed ſleepes and
+undiſ<g ref="char:EOLhyphen"/>ſembled joyes doe dwell, <hi>fide<g ref="char:EOLhyphen"/>liùs rident tuguria;</hi>
+ſome rich men have abandoned their wealth, and ſome great ones have
+degraded themſelves of their greatneſſe for to enjoy the bleſſings
+that attend the low eſtate of the poore: low ſhrubs are not annoyed with
+thunder-ſtrokes; and Envy, Cares and turmoiles doe not haunt the
+<hi>Cell.</hi> If a man can match his mind to his meanes, and levell his
+deſires with <pb n="77" facs="tcp:169932:46"/>his fortune and make them
+<hi>commenſurate,</hi> he may diſpute happineſſe with the Gods, ſaith
+that brave <hi>Roman, Sene<g ref="char:EOLhyphen"/>ca.</hi>
+                  <note place="margin">Epiſt. 23.</note>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">subsection </seg>2</label> For <hi>impriſonment,</hi>
+if it be not juſt, there is no evill in it, no diſgrace at all, ſince
+<hi>So<g ref="char:EOLhyphen"/>crates</hi> was priſoner at <hi>Athens:</hi> and ſince
+<hi>Phocion</hi> and <hi>Miltia<g ref="char:EOLhyphen"/>des</hi> (the ornaments of their Countrey) died
+in a priſon; The very preſence of their perſons did purge away the infamy
+of that place, and made it ſacred, and far more honourable than the
+<hi>Court</hi> where their Judges ſate.<note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. I</note> A <hi>goale</hi> was made
+for malefa<g ref="char:EOLhyphen"/>ctors, but if innocent and good men be thrown therein, it muſt
+loſe that appellation, and be rather any thing elſe than a goale: as it is
+true, that <hi>Cauſa non poena facit mar<g ref="char:EOLhyphen"/>tyrem:</hi> 
+                  <pb n="78" facs="tcp:169932:47"/>ſo
+it is as true that <hi>cauſa non poena facit carce<g ref="char:EOLhyphen"/>rem.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">subsection </seg>3</label>
+                  <hi>Baniſhment:</hi> none
+need to fear it or ſtartle at it: it hath been the lot and fortune of the
+moſt vertuous and de<g ref="char:EOLhyphen"/>ſerving men that ever lived amongſt men: they that
+have often preſerved their Coun<g ref="char:EOLhyphen"/>trey from ruine have beene (by their
+<hi>Countrey men</hi>) dri<g ref="char:EOLhyphen"/>ven out of it: This was the reward of <hi>M. Cicero,
+Qui conſervatae patriae pretium cala<g ref="char:EOLhyphen"/>mitate exilii tulit,</hi> as <hi>V.
+Pa<g ref="char:EOLhyphen"/>terculus</hi> ſpeakes of him.<note place="margin">L. 2. Hiſt.</note> And
+thus have many other worthy <hi>Patriots</hi> been rewarded, as will be
+ſhewed in another <hi>Pa<g ref="char:EOLhyphen"/>ragraph.</hi> If ſuch noble examples will not
+ſerve to reconcile us to a good opinion of <hi>baniſh<g ref="char:EOLhyphen"/>ment,</hi> ſure
+this former Letter of <hi>Malvezzi</hi> will, which is a <pb n="79" facs="tcp:169932:47"/>perſuaſive <hi>Apologie</hi> for the ſame, &amp; is fraught with
+learn<g ref="char:EOLhyphen"/>ed arguments to that effect.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">subsection </seg>4</label> Laſtly, for <hi>bodily
+infirmities:</hi> they have wrought much good, by fitting ſome men for good
+arts and ſtudies, and others for heaven, by a pious and holy life. 
+<note place="margin">Thucid. l. 1. Hiſtor.</note> 
+                  <hi>Plato</hi>
+did ſet up his <hi>Academy</hi> in an unhealth<g ref="char:EOLhyphen"/>full ayre, in <hi>Attica;</hi>
+which was as barren for corne, as it was <hi>fertile</hi> in good wits and
+Arts: for an <hi>Athletick</hi> habit of body is not ſo uſefull for the
+minde; the <hi>ſtrength</hi> of the one is perfected in the
+<hi>weake<g ref="char:EOLhyphen"/>neſſe</hi> of the other. <hi>Imbecillitas carnis</hi> (ſaith
+<hi>Salvian</hi>
+                  <note place="margin">In Epiſt. ad Caturu<g ref="char:cmbAbbrStroke">̄</g>.</note>) <hi>mentis
+vigorem exacuit, &amp; affectis ar<g ref="char:EOLhyphen"/>tubus, vires corporum in virtu<g ref="char:EOLhyphen"/>tes
+transformantur animorum &amp; multis ſanitatis genus quoddam eſſe
+videatur, homi<g ref="char:EOLhyphen"/>nem interdum non eſſe ſanum;</hi> 
+                  <pb n="80" facs="tcp:169932:48"/>this
+is very full and home to our buſineſſe. <hi>Eudoxius</hi> a fa<g ref="char:EOLhyphen"/>mous
+orator in S. <hi>Baſils</hi> time, and who had been converted to the
+Chriſtian faith by that holy Father, lay long under a languiſhing
+ſickneſſe, but he was ſo farre from murmuring and diſcontent under
+it, that he made an excellent <hi>Grace</hi> or thankesgiving to God for the
+ſame, <hi>Gratias ago</hi> (ſaith he) <hi>tibi pater O. Conditor hominum
+tuorum, qùod nos (etiam invi<g ref="char:EOLhyphen"/>tos) rectè fingis; &amp; per
+exter<g ref="char:EOLhyphen"/>num hominem, internum purgas; &amp; per adverſa ad beatum nos fi<g ref="char:EOLhyphen"/>nem
+producis.</hi> Baſil. Epiſt. 117.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">section </seg>E</label>
+                  <hi>Fortune.</hi> §. If by
+this name and appellation of <hi>Fortune</hi> (ſo frequently mentioned in
+theſe Letters, and in the wri<g ref="char:EOLhyphen"/>tings of <hi>Ethnicks</hi> under the notion of
+a <hi>Deity</hi>) is meant the ſupreme <hi>moderator</hi> of 
+<pb n="81" facs="tcp:169932:48"/>the Univerſe (who is capable of all names, as
+<hi>Seneca</hi> tells us) it may paſſe current:<note place="margin">
+                     <hi>Cui
+nomen omne conve<g ref="char:EOLhyphen"/>nit.</hi> lib. 2. Natur. quaeſt. c. 45.</note> o<g ref="char:EOLhyphen"/>therwiſe
+<hi>Fortune</hi> is but <hi>filia vulgi</hi> (as one ſaith) a child of
+popular Fancie, an <hi>Idol</hi> or figment of mans braine. For when the
+<hi>Philoſophers</hi> were ignorant of the true cauſes of ſome effects
+and events, they devized theſe termes of <hi>For<g ref="char:EOLhyphen"/>tune</hi> and
+<hi>Chance</hi> to ſalve the <hi>Phaenomena</hi> of their doctrine, and their
+credit from the ſu<g ref="char:EOLhyphen"/>ſpition of Ignorance. For (indeed) there is nothing that
+falls out in this univerſe with<g ref="char:EOLhyphen"/>out a <hi>Providence,</hi> and a tru and
+proper cauſe, which is linked unto the firſt: from which it hath its
+firſt motion and im<g ref="char:EOLhyphen"/>pulſe, and to which it hath it laſt reſort: though
+all men cannot ſee the dependencie and <hi>Concatenation</hi> of the ſame. 
+<pb n="82" facs="tcp:169932:49"/>Some of the wayes of <hi>Provi<g ref="char:EOLhyphen"/>dence</hi> are full of
+<hi>Meanders</hi> and <hi>Labirynths</hi> paſt finding out, proceeding in
+ſuch a <hi>crypticall</hi> and involved method that humane witt cannot trace
+them. And therefore <hi>Fortune</hi> (like <hi>Occult Qualities</hi> in
+phi<g ref="char:EOLhyphen"/>loſophy) is the <hi>Sanctuary</hi> of <hi>Ignorance: Propter ignorationem
+verarum cauſarum aut obſcuri<g ref="char:EOLhyphen"/>tatem Fortuna appellatur, ejuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+vocabulo utuntur philoſophi:</hi> So the <hi>Orator</hi> ingeniouſly
+con<g ref="char:EOLhyphen"/>feſſth in the ſecond of his Acad: Queſtions.<note place="margin">Cic.</note>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">section </seg>F</label>
+                  <hi>Beſtowed upon the beſt
+de<g ref="char:EOLhyphen"/>ſerving.</hi> §. The <hi>Romans</hi> re<g ref="char:EOLhyphen"/>warded <hi>Rutilius</hi> and
+<hi>Camillus</hi> with baniſhment, and many other <hi>Worthies,</hi> to whom
+<hi>Rome</hi> did ow not a little of her greatneſſe and glory: ſo they
+dealt with the <hi>African Scipio</hi> who was <hi>Carthaginis horro, 
+<pb n="83" facs="tcp:169932:49"/>&amp; cui Roma debet quòd ſemel tantùm
+capta eſt,</hi> as <hi>Seneca</hi> ex<g ref="char:EOLhyphen"/>preſſeth him:<note place="margin">Epiſt. 91.</note> who was the <hi>terror</hi> of
+<hi>Carthage,</hi> and who reſcued <hi>Rome</hi> from a ſecond
+<hi>Rape,</hi> that <hi>Annibal</hi> had not his <hi>will</hi> and
+<hi>pleaſure</hi> upon her, as the <hi>Gaules</hi> once had. <hi>Cicero</hi>
+and <hi>Seneca</hi> (two men that were the honour of the <hi>Gown</hi>)
+received the like kindneſſe, the former having by his great care and
+activity preſerved <hi>Rome</hi> from the fury of <hi>Cati<g ref="char:EOLhyphen"/>line</hi> and his
+<hi>Complices:</hi> and the latter having been not on<g ref="char:EOLhyphen"/>ly the Emperor
+<hi>Nero's</hi> Tutor, but was alſo (for his perſonall worth) <hi>Romani
+nominis mag<g ref="char:EOLhyphen"/>nus ſol,</hi> as <hi>Lipſius</hi> ſtyles him.<note place="margin">In his Notes on <hi>Tacitus.</hi>
+                  </note> The <hi>Athenians</hi>
+caſhierd not onely their <hi>Miltiades</hi> and <hi>The<g ref="char:EOLhyphen"/>miſtocles,</hi> who
+had often pre<g ref="char:EOLhyphen"/>ſerved their lives and for<g ref="char:EOLhyphen"/>tunes, but alſo their
+<hi>Phocion</hi> 
+                  <pb n="84" facs="tcp:169932:50"/>and <hi>Ariſtides,</hi> which are not
+ſo much names of men, as of <hi>Vertue</hi> and <hi>Goodneſſe.</hi> 
+                  <note place="margin">
+                     <hi>Beneficia co uſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Laeta ſunt, dum
+viden<g ref="char:EOLhyphen"/>tur poſſe ex<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>olv</hi>
+Tac. 4. An.</note> Some of theſe were proſcribed, be<g ref="char:EOLhyphen"/>cauſe their
+deſerts were above requitall: and ſome others, not becauſe they had done
+any harme, but for feare they ſhould doe any, in regard of their power and
+greatneſſe. <hi>Eminent</hi> men are alwaies ſu<g ref="char:EOLhyphen"/>ſpected by the higher
+powers, whthere one or more ſit at the ſterne: <hi>for the ſame</hi>
+faults and Enormities are incident to <hi>popular</hi> ſtates, as are to
+<hi>Monarchies.</hi> 
+                  <note place="margin">Tacit.</note>
+                  <hi>Non minus pe<g ref="char:EOLhyphen"/>riculum ex magna
+fama quám ex mala:</hi> and 
+<note place="margin">Sen. Thy.</note>
+                  <hi>multis exitio fuit
+íncautus populi favor,</hi> are true <hi>maxims</hi> in both
+<hi>ſtates: Great merit</hi> and a high fame, are like a high wind and a
+large ſaile which doe often ſinke the veſſell. <pb n="85" facs="tcp:169932:50"/>And
+<hi>Machiavell</hi> in his <hi>diſcour<g ref="char:EOLhyphen"/>ſes</hi> puts it to the queſtion,
+Whether the <hi>Prince</hi> or the <hi>peo<g ref="char:EOLhyphen"/>ple</hi> uſe to be more
+ungratefull toward their deſerving <hi>Mi<g ref="char:EOLhyphen"/>niſters:</hi> and he concludes
+them equally guilty.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">section </seg>G</label>
+                  <hi>Of great worth.</hi>
+§. neither <hi>Comparatives</hi> nor <hi>ſuperlatives</hi> are allowed
+in the <hi>Gram<g ref="char:EOLhyphen"/>mar</hi> rules of <hi>Democracie:</hi> A man may be good here,
+but not better than his fellowes, nor <hi>richer</hi> nor <hi>wiſer,</hi> nor
+any way better qualified; we are all Peeres here, <hi>nemo de nobis unquam
+excellat, ſi quis extite<g ref="char:EOLhyphen"/>rit, alio loco, &amp; apud alios ſit:</hi> ſo
+the <hi>levelling Epheſians</hi> de<g ref="char:EOLhyphen"/>creed, when they turnd out
+<hi>Hermodurus.</hi>
+                  <note place="margin">Ariſt. 3. Pol. c. 13. Cic. lib. 1.
+Tuſc. qu.</note> And this is the practiſe of the <hi>Venetian ſtate</hi>
+at this preſent as <hi>Jovius</hi> tells us:<note place="margin">Lib. 1. de
+Ven. Re<g ref="char:EOLhyphen"/>pub.</note> 
+                  <hi>neminem temerè ex Optima<g ref="char:EOLhyphen"/>tibus, qui vel
+inſigni virtute <pb n="86" facs="tcp:169932:51"/>vel ſpiritu in gerendis rebus
+an<g ref="char:EOLhyphen"/>tecellat, nimio plus creſcere, vel collecta gratiâ potentem &amp;
+claru<g ref="char:cmbAbbrStroke">̄</g> eſſe patiuntur.</hi> In theſe <hi>popular</hi> ſtates no man may
+be <hi>popular,</hi> ir a <hi>minion</hi> of the people: <hi>multis exitio
+fuit,</hi> &amp;c. the un<g ref="char:EOLhyphen"/>wary and undiſſembled love of the multitude hath
+been often fatall to their <hi>Fa<g ref="char:EOLhyphen"/>vourit,</hi> and hath coſt him his life or
+his liberty, as it did <hi>Petro Loredano</hi> a <hi>Senator</hi> of
+<hi>Venice,</hi>
+                  <note place="margin">Mach: Diſcur.</note> who becauſe he had
+more diſcretion than his fel<g ref="char:EOLhyphen"/>lowes, and ſo much authority as to
+<hi>becalme</hi> a tempeſt by land, I meane a great com<g ref="char:EOLhyphen"/>motion and tumult
+raiſed by the <hi>Sea-men,</hi> which threatned much danger to the Citty, was
+ſoone after this good ſervice clapt up in priſon by the <hi>Senate, par
+ragion di ſta<g ref="char:EOLhyphen"/>to.</hi>
+               </p>
+               <p>
+                  <pb n="87" facs="tcp:169932:51"/>It is a fundamentall rule and <hi>maxim</hi>
+of <hi>ſtate</hi> in theſe kinds of Governments to ſuf<g ref="char:EOLhyphen"/>fer no man to grow
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> as <hi>Ariſtotle</hi>
+ex<g ref="char:EOLhyphen"/>preſſeth it,<note place="margin">5. Polit. cap. 8.</note> 
+                  <hi>ultrà
+commenſura<g ref="char:EOLhyphen"/>tionem,</hi> beyond his <hi>line</hi> and <hi>ted<g ref="char:EOLhyphen"/>der:</hi> every
+man here hath his bounds which he may not paſſe, and his <hi>maximum quoad
+ſic</hi> (for wealth and dignity) beyond which <hi>dimenſions</hi> and
+pitch he may not grow. The temper of theſe <hi>bodies poli<g ref="char:EOLhyphen"/>tique</hi> are
+ſtated <hi>ad tempera<g ref="char:EOLhyphen"/>mentu<g ref="char:cmbAbbrStroke">̄</g>, ad pondus aequale,</hi> &amp;
+<hi>ſtin<g ref="char:EOLhyphen"/>ted</hi> to an <hi>aequiponderation</hi> by the <hi>project</hi> and
+deſigne of the firſt <hi>Founder:</hi> no element may <hi>predominate</hi>
+here; this brings all to diſorder and di<g ref="char:EOLhyphen"/>ſtemper.</p>
+               <p>But how agreeable this is to natures lawes, and whether this be
+not a <hi>dwarfing</hi> of a <pb n="88" facs="tcp:169932:52"/>State and a <hi>damping</hi>
+of mens Spirits and induſtries I leave to others to determine.</p>
+               <p>
+                  <hi>He that ſaid.</hi> §. 
+<note place="margin">Plut.</note> 
+                  <note place="margin">Suet.</note> This was <hi>Jul. Caeſar,</hi>
+who when he ſtood in competition with <hi>Q. Catulus</hi> for the
+<hi>Pontificate,</hi> and his mother diſwaded him from it, told her that ere
+night he would be either the <hi>greateſt</hi> man in <hi>Rome,</hi> or be
+baniſhed out of it; he would be <hi>firſt,</hi> or none at all. So another
+time paſſing by a little towne in <hi>Savoy,</hi> he told the company that
+was with him, that he had rather be the chiefeſt man in that Towne, than the
+<hi>ſecond</hi> man in <hi>Rome.</hi> Of this <hi>spirit</hi> was
+<hi>Caeſar Borgia,</hi> as his <hi>motto</hi> diſcovered: <hi>Aut Caeſar,
+aut Nihil.</hi> The ſpirits of ſome men (by ſome naturall
+<hi>Ele<g ref="char:EOLhyphen"/>vation</hi>) are made for Rule; <pb n="89" facs="tcp:169932:52"/>they are too high
+for the low roofes they were borne in, and therefore cannot live in the
+<hi>sphere</hi> of privacie and ſubjection. As <hi>Jul. Caeſar</hi> could
+brooke no <hi>ſuperior:</hi> ſo <hi>Pompey</hi> could beare no
+<hi>Peere,</hi>
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as <hi>Dion</hi>
+ſpeakes of him, being very ambitious of Rule and preheminence, and of
+graſping all power in his own hands. 
+<note place="margin">Plut. in vit.
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Ariſt. Pol. 3. cap. 3.</note>
+                  <hi>Themiſtocles</hi> was wont to ſpeake openly, that he was borne for
+empire and command; and <hi>Jaſon Pheraeus</hi> would ſay that he could not
+live a <hi>Foole,</hi> that is, a private man; and that he was <hi>hungry</hi>
+till he did beare rule, as <hi>Ariſtotle</hi> hath recorded of him.</p>
+               <p>Theſe men did <hi>ſweat</hi> (in a manner) within the narrow
+bounds that their fathers had <pb n="90" facs="tcp:169932:53"/>left them, as
+<hi>Alexander</hi> did, within the compaſſe of the knowne world. 
+<note place="margin">Juv. Sat. 10.</note>
+                  <hi>Aeſtuat in<g ref="char:EOLhyphen"/>faelix
+anguſto limite mundi.</hi> They were ſtraitned and <hi>uneaſie,</hi> and
+therefore made way with their ſwords for more roome to breathe in.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">section </seg>I</label>
+                  <hi>Are not your goods.</hi>
+§ This is another <hi>Inopinatum,</hi> or nice point of the <hi>Stoicks
+mirabilia;</hi> That the <hi>moveables</hi> of <hi>Fortune</hi> are not to be
+reckoned any part of our wealth, or among the number of our <hi>goods</hi> or
+good things: for the true goods of a man are (ſay they) immoveable and
+immutable; <hi>nec eripi nec ſurripi poſſunt,</hi> can neither be
+<hi>plundred</hi> nor <hi>ſequestred;</hi> a mans true wealth is alwaies
+<hi>imbarqued</hi> in the ſame bottom with himſelfe: for extrinſecall and
+adventi<g ref="char:EOLhyphen"/>tious goods, <hi>non ſimpliciter <pb n="91" facs="tcp:169932:53"/>bona
+nuncupanda,</hi> ſaith <hi>Apulei<g ref="char:EOLhyphen"/>us,</hi> are not ſimply good: <hi>ſed
+falſa &amp; adulterina bona,</hi> as <hi>Seneca</hi> ſtyles them,<note place="margin">Epiſt. 71.</note> things that have the <hi>gloſſe</hi> and
+<hi>luſtre</hi> of good (as counterfeit gems of true ones) but are not ſo
+indeed. 
+<note place="margin">Helvid. apud Tac. 4 Hiſt.</note>
+                  <hi>Quae
+extra animum ſunt, neque bonis neque malis annumeranda,</hi> ſaith another
+Scholar of the <hi>Stoa:</hi> they are neither good nor bad abſo<g ref="char:EOLhyphen"/>lutely in
+themſelves, but re<g ref="char:EOLhyphen"/>latively, <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+according as they are uſed and imployed; <hi>bona undè benè
+facias, non quae bonos faciunt,</hi> inſtruments to doe good, not to make men
+good: for what is incident to bad men and never makes them better, and
+ſeparable from good men and never leaves them worſe, doth not deſerve the
+name of <hi>good.</hi> 
+                  <note place="margin">Cic. parad. 1</note>
+                  <hi>Quidquamne bonum 
+<pb n="92" facs="tcp:169932:54"/>eſt, quod non eum qui poſſidet meliorem
+facit.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">section </seg>K</label>
+                  <hi>I heard you speake.</hi>
+§ This noble <hi>Gentleman</hi> bore his ba<g ref="char:EOLhyphen"/>niſhment with that temper
+and <hi>aequanimity,</hi> as <hi>Scipio</hi> did his; who upon his departure
+from the Citty ſpake in this <hi>gentle ſtraine:</hi> 
+                  <note place="margin">Sen. Epiſt. 86.</note>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>tere ſine me
+beneficio meo, patria: cauſa tuae libertatis fui, ero &amp; argu<g ref="char:EOLhyphen"/>mentum;
+exeo, ſi plus quam tibi expedit crevi.</hi> And that good man
+<hi>Ariſtides</hi> being ſentenced to baniſhment, ſaid no more but
+this: I wiſh my Countrey no more harm than that they may never have any more
+need of <hi>Ariſtides. Rutilius</hi> alſo tooke his ba<g ref="char:EOLhyphen"/>niſhment ſo
+contentedly, <hi>ut ſorti ſuae gratias egit, &amp; exi<g ref="char:EOLhyphen"/>lium complexus
+eſt,</hi> as <hi>Seneca</hi> tells us.<note place="margin">Epiſt. 86.</note>
+And <hi>Seneca</hi> himſelfe in his <hi>conſolatory</hi> Epiſtle to 
+<pb n="93" facs="tcp:169932:54"/>his mother <hi>Helvia,</hi> touch<g ref="char:EOLhyphen"/>ing his owne
+baniſhment, doth not complaine (one word) either of his baniſhers or
+baniſhment, but ſeemes as well contented with <hi>Corſi<g ref="char:EOLhyphen"/>ca</hi> as with
+<hi>Rome.</hi>
+               </p>
+               <p>Theſe brave men, by this moderation and
+<hi>Compoſed<g ref="char:EOLhyphen"/>neſſe</hi> of mind, did reare them <hi>Trophies</hi> out of
+their misfor<g ref="char:EOLhyphen"/>tunes, 
+<note place="margin">Conſol. ad Helviam. cap. 13.</note>
+                  <hi>&amp;
+
+miſerias Infularum laco babuere,</hi> wore their di<g ref="char:EOLhyphen"/>ſaſters like holy
+<hi>veſtmments</hi> and <hi>robes</hi> of honour, as <hi>Seneca</hi> ſets
+them out. They ſhewed that they could not onely <hi>doe,</hi> but
+<hi>ſuffer</hi> bravely: 
+<note place="margin">
+                     <hi>Et facere &amp; pati for<g ref="char:EOLhyphen"/>tia, hoc Romanum
+eſt. L. Flo.</hi>
+                  </note> and that <hi>paſſive</hi> fortitude is as
+glorious as <hi>active</hi> valour. Theſe men that (carried ſo much
+<hi>intrinſique</hi> worth) thought they could live as wel without their
+native Countrey, as their Countrey without <pb n="94" facs="tcp:169932:55"/>them, as
+<hi>Diogenes</hi> ſaid of his ſervant that ran away:<note place="margin">Laert. in <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ita.</note>
+if my man (ſaith he) can live without me, it were a ſhame if I could not
+live without my man.</p>
+            </div>
+            <div n="2" type="letter">
+               <head>The ſecond Letter.</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">section </seg>A</label>
+                  <hi>BOrne to Command.</hi>
+§ It is <hi>nature</hi> that makes ſer<g ref="char:EOLhyphen"/>vants and maſters ſaith
+<hi>Ari<g ref="char:EOLhyphen"/>ſtotle,</hi>
+                  <note place="margin">1 Polit. c. 1.</note> 
+                  <hi>ſhe</hi>
+imprints a character of <hi>ſervitude</hi> or <hi>command</hi> on every
+rationall creature; which impreſſion is either outward or inward, in the
+body, or mind, or both: when ſhe deſignes men for rule ſhe gives them
+(commonly) more <hi>decent</hi> limbs and <hi>feature, &amp; formam dignam
+imperio.</hi> 
+                  <note place="margin">
+                     <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.
+Eurip.</note> A handſom face in time of election is a <hi>letter</hi> of
+<hi>commendation,</hi> whoſe <hi>ſilent Rhetorick</hi> prevailes much with
+the people, and gaines <pb n="95" facs="tcp:169932:55"/>their <hi>voices</hi> without
+canvaſſing, or any other arguments to perſwade. <hi>Omnibus Barbaris in
+majeſtate corporis veneratio eſt, qui magnorum operum non alios magis
+capaces putant qua<g ref="char:cmbAbbrStroke">̄</g> quos eximiâ specie natura dig<g ref="char:EOLhyphen"/>nata eſt,</hi>
+ſaith that elegant <hi>Hi<g ref="char:EOLhyphen"/>ſtorian Q. Curt.</hi>
+                  <note place="margin">L. 1.
+Hiſt.</note> And therefore moſto nations were wont to chooſe their Rulers
+(as the <hi>Jſraelites</hi> did <hi>Saul</hi>) by the <hi>eye.</hi> So the
+<hi>Indians</hi> and <hi>Aethio<g ref="char:EOLhyphen"/>pains</hi> did in <hi>Ariſtotles</hi>
+time:<note place="margin">
+                     <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. 7.
+Polit. cap. 14.</note> grounding their choice (per<g ref="char:EOLhyphen"/>haps) upon this account:
+that ſuch fair manſions ſhould have (and uſually had) In<g ref="char:EOLhyphen"/>habiters and
+<hi>Gueſts</hi> ſuitable to their dwelling: Faire ſoules ſhould
+poſſeſſe faire bodies.</p>
+               <p>But if it falls out ſo (as many times it doth) that
+<hi>in<g ref="char:EOLhyphen"/>genium malè habitat,</hi> as <hi>Sue<g ref="char:EOLhyphen"/>tonius</hi> ſpeaks of
+<hi>Galba,</hi> a faire <pb n="96" facs="tcp:169932:56"/>ſoule is lodged meanely and
+unſuitably; or on the con<g ref="char:EOLhyphen"/>trary, then it is <hi>Natures</hi> in<g ref="char:EOLhyphen"/>tent (ſince
+<hi>Reaſon</hi> and <hi>under<g ref="char:EOLhyphen"/>ſtanding</hi> are of the greateſt uſe and
+moment in humane af<g ref="char:EOLhyphen"/>faires, and matters of Go<g ref="char:EOLhyphen"/>vernment) that thoſe that had
+the <hi>greateſt</hi> ſhare of theſe (by Natures bounty) ſhould beare
+rule over them that had <hi>leſſe,</hi> and were <hi>minors</hi> in
+underſtanding: <hi>The foole ſhall be a ſervant to the wiſe of
+heart,</hi> ſaith the <hi>wiſe Solomon.</hi>
+                  <note place="margin">Prov.
+11.29.</note> This was <hi>Diogenes</hi> his meaning,<note place="margin">Laert.</note> who when he was taken cap<g ref="char:EOLhyphen"/>tive by <hi>pirats,</hi>
+and was to be ſold in the market-place, ſee<g ref="char:EOLhyphen"/>ing a Gallant paſſe by,
+whom he conceived to have more wealth than wit, ſpake to the Pirats,
+<hi>Sirs,</hi> ſell me (I pray) to yonder <hi>Gentleman,</hi> for I believe
+he wants a maſter: he did not <pb n="97" facs="tcp:169932:56"/>mean to be his
+<hi>ſervant</hi> (belike) but his <hi>master.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">section </seg>B</label>
+                  <hi>But hath a kingdome.</hi>
+§. This poſition flowed from <hi>Zeno's</hi> ſchoole too, and the
+<hi>Sophies</hi> of the <hi>Stoa</hi> (<hi>quorum</hi>
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, whoſe words ſound like <hi>wonders</hi> and
+<hi>era<g ref="char:EOLhyphen"/>cles</hi>) That every wiſe man is not only a <hi>free-man</hi> but a
+<hi>free-prince,</hi> a <hi>King:</hi> This doctrine hath paſſed current
+through many hands and pens. <hi>Qui recte faciet, non qui dominatur, erit
+Rex,</hi> ſaith <hi>Auſonius</hi> in his <hi>monoſyllables;</hi> He that
+doth well is a <hi>King,</hi> though he be not a <hi>King:</hi> and <hi>Rex
+eſt qui poſuit metus,</hi> &amp;c. Saith <hi>Seneca,</hi>
+                  <note place="margin">In Thyeſt.</note> he that hath <hi>ſubdued</hi> his feares and
+perturbations, deſerves the <hi>Crowne; Regnum &amp; di<g ref="char:EOLhyphen"/>adema
+deferes,</hi> &amp;c.<note place="margin">Lib. 2. Carm. ode 2.</note> Reach him
+the <hi>Crowne</hi> and <hi>Scepter</hi> ſaith <hi>Horace,</hi> and let him 
+<pb n="98" facs="tcp:169932:57"/>
+                  <hi>reigne,</hi> in whom no baſe cove<g ref="char:EOLhyphen"/>touſneſſe
+<hi>reignes.</hi> But this kingdome (we ſpeake of) is an inviſible one,
+ſeated in the minde of man: <hi>mens bona regnum poſſidet:</hi> every
+body naturall is a body politicke, or a little <hi>common-wealth,</hi> where
+<hi>Reaſon</hi> commands in chiefe, and the <hi>Paſſions</hi> (like
+dutifull ſubjects) obey her check and commands: And though the
+<hi>territories</hi> of this little <hi>Repub<g ref="char:EOLhyphen"/>lic</hi> ſeeme but ſmall and
+nar<g ref="char:EOLhyphen"/>row, being bounded within the <hi>circuit</hi> of mans breaſt, yet the
+command and <hi>Royalty</hi> is great; <hi>imperare ſibi maximum eſt
+imperium</hi> ſaith <hi>Seneca,</hi>
+                  <note place="margin">Epiſt. 113.</note>
+he that can command himſelfe may command farre and wide, yea farther than
+<hi>He</hi> that weares the <hi>Moone</hi> for his <hi>creſt,</hi>
+                  <note place="margin">Turke.</note>
+or the other that weares the <hi>Sunne</hi> for his <hi>hel<g ref="char:EOLhyphen"/>met:</hi>
+                  <note place="margin">King of <hi>Spaine.</hi>
+                  </note> 
+                  <pb n="99" facs="tcp:169932:57"/>
+                  <hi>Latius
+regnes avidum do<g ref="char:EOLhyphen"/>mando ſpiritu<g ref="char:cmbAbbrStroke">̄</g>, qua<g ref="char:cmbAbbrStroke">̄</g> ſi Lybia<g ref="char:cmbAbbrStroke">̄</g> re<g ref="char:EOLhyphen"/>motis Gadibus jungas,
+&amp; uter<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Poenus ſerviat uni.</hi> As the <hi>Ly<g ref="char:EOLhyphen"/>rick</hi> poet hath
+divinely ſung.<note place="margin">Car. lib. 2. od 2.</note>
+               </p>
+               <p>This doctrine is <hi>quadrate</hi> to that ſaying in the holy
+ſcrip<g ref="char:EOLhyphen"/>ture, 
+<note place="margin">Revel. 1.6.</note>That <hi>Chriſt</hi> hath
+made us <hi>Kings</hi> and <hi>Prieſts</hi> unto God his Father: which be<g ref="char:EOLhyphen"/>ing
+underſtood in a <hi>morall</hi> and not a <hi>literall</hi> ſenſe, (as
+ſome <hi>fanatick</hi> ſpirits would under<g ref="char:EOLhyphen"/>ſtand them, who would be all
+<hi>Kings</hi> and <hi>Prieſts</hi>) doth aptly concur with this maxim of the
+<hi>Stoicks:</hi> As I have obſervd a great <hi>harmony</hi> and
+<hi>confor<g ref="char:EOLhyphen"/>mity</hi> in many points both of doctrine and diſcipline,
+be<g ref="char:EOLhyphen"/>tweene the <hi>Chriſtians</hi> and the <hi>Stoicks;</hi> and if
+<hi>Ariſtotle</hi> was <hi>Chriſts praecurſor</hi> in
+<hi>naturalibus</hi> as the <hi>Divines</hi> of <hi>Collen</hi> af<g ref="char:EOLhyphen"/>firm'd, I
+may as boldly affirm <pb n="100" facs="tcp:169932:58"/>and demonſtate it too, that
+<hi>Zeno</hi> and his ſucceſſors were his <hi>praecurſors</hi> in
+<hi>moralibus;</hi> whoſe teaching did enlighten much the darkneſſe of
+thoſe times and diſpell their igno<g ref="char:EOLhyphen"/>rance; creating a <hi>glimmering</hi>
+light, like the dawne before the <hi>ſun-riſing,</hi> and preparing the way
+for the <hi>Light which enlightneth every man that commeth into the world:</hi>
+though Saint <hi>John</hi> (that bright <hi>Phoſ<g ref="char:EOLhyphen"/>phorus</hi>) did it in a
+higher de<g ref="char:EOLhyphen"/>gree &amp; meaſure, yet theſe had a ſhare in it, and
+<hi>ſeaſoned</hi> their minds with previous diſpoſiti<g ref="char:EOLhyphen"/>ons to receive
+the lively <hi>Ora<g ref="char:EOLhyphen"/>cles</hi> of <hi>Chriſt</hi> &amp; his
+<hi>Preachers.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">section </seg>C</label>
+                  <hi>Fancied an
+impoſſibility.</hi> §. This is another <hi>placitum</hi> or
+<hi>haereſie</hi> of the ſame ſchoole: that as no outward misfor<g ref="char:EOLhyphen"/>tunes
+can make any <hi>wound</hi> or <hi>bruiſe</hi> in the mind of a 
+<pb n="101" facs="tcp:169932:58"/>wiſe man: ſo neither can bo<g ref="char:EOLhyphen"/>dily paines make him
+miſera<g ref="char:EOLhyphen"/>ble, or bereave him of inward joy and felicity: <hi>ſi uratur
+ſa<g ref="char:EOLhyphen"/>piens, ſi crucietur in Phalaridis tauro, dicet, quam ſuave eſt hoc?
+Cic.</hi> 2. <hi>Tuſc. qu.</hi> the inward peace and content<g ref="char:EOLhyphen"/>ment of mind,
+which he en<g ref="char:EOLhyphen"/>joyes, doth <hi>ſtupifie</hi> the ſharpeſt torments, and
+<hi>rebate</hi> the edge and ſenſe of them. <hi>Invictus ex alto dolores
+ſuor ſpectat,</hi> as our <hi>Seneca</hi> tells us,<note place="margin">Epiſt. 85.</note> he lookes with an undaunted ſpirit up<g ref="char:EOLhyphen"/>on his
+owne torments and tormenters, as though he were a <hi>ſpectator</hi> and not
+a <hi>ſpectacle;</hi> &amp; as though his body did not belong unto him, or
+that were not his owne that he carried about him. <hi>Tunde Anaxar<g ref="char:EOLhyphen"/>chi
+follem,</hi> &amp;c. ſo <hi>Anaxarchus</hi> jeer'd him that
+<hi>belabourd</hi> himſelfe in tormenting his body.</p>
+               <p>
+                  <pb n="102" facs="tcp:169932:59"/>Though our noble Author ſeemes not to
+approve of this <hi>Paradox,</hi> concluding it under an
+<hi>impoſſibility,</hi> yet the great <hi>Saint Baſil,</hi> doth not
+ſtick to commend it: <hi>Laudo animi dexteritatem</hi> (ſaith he<note place="margin">Epiſt.
+180.</note>) <hi>&amp; prae<g ref="char:EOLhyphen"/>ſtantiam in Stoicis, qui nihil corum quae extra
+hominem ſunt à felicitate impedire dicunt: ſed felicem eum eſſe
+qui vir<g ref="char:EOLhyphen"/>tutis ſtudio incumbit, licet in Phalaridis tauro cremetur.</hi> And
+the ready willingneſſe of the <hi>primitive</hi> Chriſtians to be
+<hi>Martyrs,</hi> and their wonder<g ref="char:EOLhyphen"/>full conſtancie and cheerful<g ref="char:EOLhyphen"/>neſſe
+under thoſe <hi>witty</hi> and <hi>exquiſit</hi> torments that were
+inflicted on them, may acquit this doctrine of the <hi>Stoicks</hi> both from
+<hi>arrogancie,</hi> and from a ſeeming impoſſibility.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">section </seg>D</label>
+                  <hi>Palinures.</hi> §.
+<hi>Palinurus</hi> was ſhip-maſter or <hi>Pilot</hi> to 
+<pb n="103" facs="tcp:169932:59"/>
+                  <hi>Aeneas</hi> in his <hi>Navigations</hi> from
+<hi>Troy</hi> to <hi>Italy:</hi> who (one night) while he was viewing the
+ſtarrs and the skie from the deck of a ſhip, was by a ſtrong guſt of
+wind throwne overboard, and 
+<q> 
+                     <l>—Dum ſydera ſervat,</l> 
+                     <l>Exciderat puppi mediis effu<g ref="char:EOLhyphen"/>ſus in undis.</l>
+                     <bibl>Vir.
+Aen. 6.</bibl>
+                  </q>
+               </p>
+               <p>Theſe <hi>Palinures</hi> in the <hi>Text</hi> are ſome
+prudent and expe<g ref="char:EOLhyphen"/>rienced <hi>States-men</hi> and <hi>Pilots,</hi> that have
+ſate at the <hi>ſternes</hi> of Common-wealthes; whom the <hi>breath</hi>
+of the people (who are as inconſtant as the <hi>wind</hi>) hath in ſome
+<hi>paroxiſme</hi> and <hi>acute</hi> fitt of <hi>anger</hi> or
+<hi>jelouſie,</hi> which they are frequently ſubject unto, many times
+caſt overboard, even ſuch as have ſteer'd and guided them ſafe in all
+their courſes through many <hi>Civill tempeſts;</hi> and 
+<pb n="104" facs="tcp:169932:60"/>whom they (once) eſteemed their <hi>Dioſcuri</hi> and
+<hi>Tutelar gods;</hi> ſo fickle and uncertain a <hi>tenure,</hi> is the love
+of the <hi>vul<g ref="char:EOLhyphen"/>gus—neutrum modò, mas modò vulgus.</hi>
+There is no <hi>Eu<g ref="char:EOLhyphen"/>ripus</hi> ſo <hi>lunatick</hi> and unquiet, and ſo ful
+of <hi>reciprocations</hi> and countertydes; or ſo ſuddainly changed from a
+<hi>calme</hi> to a <hi>tempeſt</hi> as the <hi>populace; Nul<g ref="char:EOLhyphen"/>lum fretum tam
+procelloſum, &amp; tantos ciet fluctus quantos multitudo motus habet</hi>
+ſaith <hi>Quint. Curtius, lib</hi> 10.</p>
+               <p>The people is <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> as
+<hi>Plutarch</hi> characters them,<note place="margin">De Repub. gerenda</note> a
+<hi>ſuspitious, humorſome</hi> and <hi>Skittiſh</hi> beaſt, that is
+often <hi>reſtif,</hi> and doth caſt off his rider: and a man may as ſoon
+ſhape a coate for the <hi>changeable Moone,</hi> as make any Government or
+Gover<g ref="char:EOLhyphen"/>nours to pleaſe them long.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:169932:60"/>
+         </div>
+      </back>
+   </text>
+</TEI>
